@@ -1,0 +1,4801 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Partdo Core\n"
+"POT-Creation-Date: 2024-09-03 09:42+0300\n"
+"PO-Revision-Date: 2024-09-03 09:42+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: partdo-core.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: elementor/classes/class-customizing-page-settings.php:7
+msgid "Sidebar Collapse"
+msgstr ""
+
+#: elementor/classes/class-customizing-page-settings.php:9
+#: elementor/classes/class-customizing-page-settings.php:20
+#: elementor/classes/class-customizing-page-settings.php:46
+#: elementor/classes/class-helpers-functions.php:423
+#: elementor/widgets/partdo-button.php:201
+#: elementor/widgets/partdo-contact-icon-box.php:35
+#: elementor/widgets/partdo-icon-box.php:35
+#: elementor/widgets/partdo-icon-list.php:37
+#: elementor/widgets/partdo-latest-blog.php:159
+msgid "Yes"
+msgstr ""
+
+#: elementor/classes/class-customizing-page-settings.php:10
+#: elementor/classes/class-customizing-page-settings.php:21
+#: elementor/classes/class-customizing-page-settings.php:47
+#: elementor/classes/class-helpers-functions.php:424
+#: elementor/widgets/partdo-button.php:202
+#: elementor/widgets/partdo-contact-icon-box.php:36
+#: elementor/widgets/partdo-icon-box.php:36
+#: elementor/widgets/partdo-icon-list.php:38
+#: elementor/widgets/partdo-latest-blog.php:160
+msgid "No"
+msgstr ""
+
+#: elementor/classes/class-customizing-page-settings.php:18
+msgid "Hide Header"
+msgstr ""
+
+#: elementor/classes/class-customizing-page-settings.php:29
+#: elementor/widgets/partdo-product-tab-carousel.php:32 inc/customizer.php:323
+msgid "Header Type"
+msgstr ""
+
+#: elementor/classes/class-customizing-page-settings.php:33
+#: elementor/classes/class-customizing-page-settings.php:59
+msgid "Select a type"
+msgstr ""
+
+#: elementor/classes/class-customizing-page-settings.php:34
+#: elementor/classes/class-customizing-page-settings.php:60
+#: elementor/classes/class-helpers-functions.php:45
+#: elementor/widgets/partdo-banner-box.php:37
+#: elementor/widgets/partdo-custom-title.php:37
+#: elementor/widgets/partdo-home-slider.php:37
+#: elementor/widgets/partdo-product-list.php:38
+#: elementor/widgets/partdo-testimonial-carousel.php:37
+#: elementor/widgets/partdo-text-banner.php:37 inc/customizer.php:328
+#: inc/customizer.php:1797 inc/customizer.php:4093 inc/customizer.php:4448
+#: inc/customizer.php:4562
+msgid "Type 1"
+msgstr ""
+
+#: elementor/classes/class-customizing-page-settings.php:35
+#: elementor/classes/class-customizing-page-settings.php:61
+#: elementor/classes/class-helpers-functions.php:33
+#: elementor/classes/class-helpers-functions.php:46
+#: elementor/widgets/partdo-banner-box.php:38
+#: elementor/widgets/partdo-custom-title.php:38
+#: elementor/widgets/partdo-home-slider.php:38
+#: elementor/widgets/partdo-product-list.php:39
+#: elementor/widgets/partdo-testimonial-carousel.php:38
+#: elementor/widgets/partdo-text-banner.php:38 inc/customizer.php:329
+#: inc/customizer.php:1798 inc/customizer.php:4094 inc/customizer.php:4449
+#: inc/customizer.php:4563
+msgid "Type 2"
+msgstr ""
+
+#: elementor/classes/class-customizing-page-settings.php:36
+#: elementor/classes/class-helpers-functions.php:47
+#: elementor/widgets/partdo-banner-box.php:39
+#: elementor/widgets/partdo-home-slider.php:39 inc/customizer.php:330
+#: inc/customizer.php:1799 inc/customizer.php:4564
+msgid "Type 3"
+msgstr ""
+
+#: elementor/classes/class-customizing-page-settings.php:37
+#: elementor/widgets/partdo-banner-box.php:40
+#: elementor/widgets/partdo-home-slider.php:40 inc/customizer.php:331
+msgid "Type 4"
+msgstr ""
+
+#: elementor/classes/class-customizing-page-settings.php:44
+msgid "Hide Footer"
+msgstr ""
+
+#: elementor/classes/class-customizing-page-settings.php:55
+#: inc/customizer.php:4088
+msgid "Footer Type"
+msgstr ""
+
+#: elementor/classes/class-customizing-page-settings.php:68
+msgid "Set Logo"
+msgstr ""
+
+#: elementor/classes/class-customizing-page-settings.php:76
+#: elementor/widgets/partdo-banner-box.php:52
+#: elementor/widgets/partdo-banner-box2.php:43
+msgid "Width"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:21
+msgid "Query"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:28
+#: elementor/classes/class-helpers-functions.php:40
+msgid "Product Type"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:32
+#: elementor/classes/class-helpers-functions.php:44
+#: elementor/classes/class-helpers-functions.php:318
+#: elementor/widgets/partdo-banner-box.php:36
+#: elementor/widgets/partdo-banner-box.php:74
+#: elementor/widgets/partdo-category-banner.php:37
+#: elementor/widgets/partdo-category-banner.php:51
+#: elementor/widgets/partdo-category-banner2.php:37
+#: elementor/widgets/partdo-category-banner2.php:50
+#: elementor/widgets/partdo-custom-title.php:36
+#: elementor/widgets/partdo-home-slider.php:36
+#: elementor/widgets/partdo-product-categories.php:37
+#: elementor/widgets/partdo-product-grid.php:37
+#: elementor/widgets/partdo-product-list.php:37
+#: elementor/widgets/partdo-product-tab-carousel.php:36
+#: elementor/widgets/partdo-testimonial-carousel.php:36
+#: elementor/widgets/partdo-text-banner.php:36 inc/customizer.php:2015
+msgid "Select Type"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:55
+#: elementor/widgets/partdo-client-carousel.php:32
+#: elementor/widgets/partdo-latest-blog.php:73
+#: elementor/widgets/partdo-product-categories.php:128
+#: elementor/widgets/partdo-product-categories.php:145
+#: elementor/widgets/partdo-testimonial-carousel.php:56
+msgid "Column"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:59
+#: elementor/classes/class-helpers-functions.php:74
+#: elementor/widgets/partdo-client-carousel.php:36
+#: elementor/widgets/partdo-client-carousel.php:54
+#: elementor/widgets/partdo-latest-blog.php:77
+#: elementor/widgets/partdo-product-categories.php:132
+#: elementor/widgets/partdo-product-categories.php:149
+#: elementor/widgets/partdo-testimonial-carousel.php:60
+#: elementor/widgets/partdo-testimonial-carousel.php:77
+#: elementor/widgets/partdo-testimonial-carousel.php:91
+msgid "Select Column"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:60
+#: elementor/classes/class-helpers-functions.php:76
+#: elementor/widgets/partdo-client-carousel.php:37
+#: elementor/widgets/partdo-client-carousel.php:56
+#: elementor/widgets/partdo-product-categories.php:133
+#: elementor/widgets/partdo-product-categories.php:150
+#: elementor/widgets/partdo-testimonial-carousel.php:62
+#: elementor/widgets/partdo-testimonial-carousel.php:79
+#: elementor/widgets/partdo-testimonial-carousel.php:93 inc/customizer.php:2439
+msgid "2 Columns"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:61
+#: elementor/widgets/partdo-client-carousel.php:38
+#: elementor/widgets/partdo-client-carousel.php:57
+#: elementor/widgets/partdo-latest-blog.php:80
+#: elementor/widgets/partdo-product-categories.php:134
+#: elementor/widgets/partdo-product-categories.php:151
+#: elementor/widgets/partdo-testimonial-carousel.php:63
+#: elementor/widgets/partdo-testimonial-carousel.php:80
+#: elementor/widgets/partdo-testimonial-carousel.php:94 inc/customizer.php:2438
+#: inc/customizer.php:4149
+msgid "3 Columns"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:62
+#: elementor/widgets/partdo-client-carousel.php:39
+#: elementor/widgets/partdo-latest-blog.php:79
+#: elementor/widgets/partdo-product-categories.php:135
+#: elementor/widgets/partdo-testimonial-carousel.php:64 inc/customizer.php:2437
+#: inc/customizer.php:4148
+msgid "4 Columns"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:63
+#: elementor/widgets/partdo-client-carousel.php:40
+#: elementor/widgets/partdo-latest-blog.php:78
+#: elementor/widgets/partdo-product-categories.php:136
+#: elementor/widgets/partdo-testimonial-carousel.php:65 inc/customizer.php:2436
+#: inc/customizer.php:4147
+msgid "5 Columns"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:70
+#: elementor/widgets/partdo-client-carousel.php:50
+#: elementor/widgets/partdo-testimonial-carousel.php:73
+msgid "Mobile Column"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:75
+#: elementor/widgets/partdo-client-carousel.php:55
+#: elementor/widgets/partdo-testimonial-carousel.php:78
+#: elementor/widgets/partdo-testimonial-carousel.php:92
+msgid "1 Column"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:84
+#: elementor/widgets/partdo-deals-product.php:73
+#: elementor/widgets/partdo-deals-product2.php:44
+#: elementor/widgets/partdo-latest-blog.php:87
+#: elementor/widgets/partdo-product-list.php:57
+#: elementor/widgets/partdo-special-product.php:54
+#: elementor/widgets/partdo-special-product2.php:55
+msgid "Posts Per Page"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:94
+#: elementor/widgets/partdo-deals-product.php:83
+#: elementor/widgets/partdo-deals-product2.php:54
+#: elementor/widgets/partdo-product-list.php:67
+#: elementor/widgets/partdo-special-product.php:64
+#: elementor/widgets/partdo-special-product2.php:65
+msgid "Filter Category"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:106
+#: elementor/widgets/partdo-deals-product.php:95
+#: elementor/widgets/partdo-deals-product2.php:66
+#: elementor/widgets/partdo-product-list.php:79
+#: elementor/widgets/partdo-special-product.php:76
+#: elementor/widgets/partdo-special-product2.php:77
+msgid "Include Post"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:117
+#: elementor/widgets/partdo-deals-product.php:106
+#: elementor/widgets/partdo-deals-product2.php:77
+#: elementor/widgets/partdo-latest-blog.php:129
+#: elementor/widgets/partdo-product-categories.php:159
+#: elementor/widgets/partdo-product-list.php:90
+#: elementor/widgets/partdo-product-search.php:100
+#: elementor/widgets/partdo-special-product.php:87
+#: elementor/widgets/partdo-special-product2.php:88
+msgid "Select Order"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:120
+#: elementor/widgets/partdo-deals-product.php:109
+#: elementor/widgets/partdo-deals-product2.php:80
+#: elementor/widgets/partdo-latest-blog.php:132
+#: elementor/widgets/partdo-product-categories.php:162
+#: elementor/widgets/partdo-product-list.php:93
+#: elementor/widgets/partdo-product-search.php:103
+#: elementor/widgets/partdo-special-product.php:90
+#: elementor/widgets/partdo-special-product2.php:91
+msgid "Ascending"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:121
+#: elementor/widgets/partdo-deals-product.php:110
+#: elementor/widgets/partdo-deals-product2.php:81
+#: elementor/widgets/partdo-latest-blog.php:133
+#: elementor/widgets/partdo-product-categories.php:163
+#: elementor/widgets/partdo-product-list.php:94
+#: elementor/widgets/partdo-product-search.php:104
+#: elementor/widgets/partdo-special-product.php:91
+#: elementor/widgets/partdo-special-product2.php:92
+msgid "Descending"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:129
+#: elementor/widgets/partdo-deals-product.php:118
+#: elementor/widgets/partdo-deals-product2.php:89
+#: elementor/widgets/partdo-latest-blog.php:141
+#: elementor/widgets/partdo-product-categories.php:171
+#: elementor/widgets/partdo-product-list.php:102
+#: elementor/widgets/partdo-product-search.php:112
+#: elementor/widgets/partdo-special-product.php:99
+#: elementor/widgets/partdo-special-product2.php:100
+msgid "Order By"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:132
+#: elementor/widgets/partdo-deals-product.php:121
+#: elementor/widgets/partdo-deals-product2.php:92
+#: elementor/widgets/partdo-latest-blog.php:144
+#: elementor/widgets/partdo-product-categories.php:174
+#: elementor/widgets/partdo-product-list.php:105
+#: elementor/widgets/partdo-product-search.php:115
+#: elementor/widgets/partdo-special-product.php:102
+#: elementor/widgets/partdo-special-product2.php:103
+msgid "Post ID"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:133
+#: elementor/widgets/partdo-deals-product.php:122
+#: elementor/widgets/partdo-deals-product2.php:93
+#: elementor/widgets/partdo-latest-blog.php:145
+#: elementor/widgets/partdo-product-categories.php:175
+#: elementor/widgets/partdo-product-list.php:106
+#: elementor/widgets/partdo-product-search.php:116
+#: elementor/widgets/partdo-special-product.php:103
+#: elementor/widgets/partdo-special-product2.php:104
+msgid "Menu Order"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:134
+#: elementor/widgets/partdo-deals-product.php:123
+#: elementor/widgets/partdo-deals-product2.php:94
+#: elementor/widgets/partdo-latest-blog.php:146
+#: elementor/widgets/partdo-product-categories.php:176
+#: elementor/widgets/partdo-product-list.php:107
+#: elementor/widgets/partdo-product-search.php:117
+#: elementor/widgets/partdo-special-product.php:104
+#: elementor/widgets/partdo-special-product2.php:105
+msgid "Random"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:135
+#: elementor/widgets/partdo-deals-product.php:124
+#: elementor/widgets/partdo-deals-product2.php:95
+#: elementor/widgets/partdo-latest-blog.php:147
+#: elementor/widgets/partdo-product-categories.php:177
+#: elementor/widgets/partdo-product-list.php:108
+#: elementor/widgets/partdo-product-search.php:118
+#: elementor/widgets/partdo-special-product.php:105
+#: elementor/widgets/partdo-special-product2.php:106
+msgid "Date"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:136
+#: elementor/widgets/partdo-address-box.php:32
+#: elementor/widgets/partdo-banner-box.php:93
+#: elementor/widgets/partdo-banner-box2.php:61
+#: elementor/widgets/partdo-contact-icon-box.php:68
+#: elementor/widgets/partdo-custom-title.php:45
+#: elementor/widgets/partdo-deals-product.php:33
+#: elementor/widgets/partdo-deals-product.php:125
+#: elementor/widgets/partdo-deals-product2.php:33
+#: elementor/widgets/partdo-deals-product2.php:96
+#: elementor/widgets/partdo-icon-box.php:68
+#: elementor/widgets/partdo-icon-list.php:70
+#: elementor/widgets/partdo-latest-blog.php:33
+#: elementor/widgets/partdo-latest-blog.php:148
+#: elementor/widgets/partdo-page-banner.php:42
+#: elementor/widgets/partdo-product-categories.php:46
+#: elementor/widgets/partdo-product-categories.php:178
+#: elementor/widgets/partdo-product-grid.php:46
+#: elementor/widgets/partdo-product-list.php:109
+#: elementor/widgets/partdo-product-search.php:33
+#: elementor/widgets/partdo-product-search.php:119
+#: elementor/widgets/partdo-product-tab-carousel.php:45
+#: elementor/widgets/partdo-special-product.php:33
+#: elementor/widgets/partdo-special-product.php:106
+#: elementor/widgets/partdo-special-product2.php:33
+#: elementor/widgets/partdo-special-product2.php:107
+#: elementor/widgets/partdo-testimonial-carousel.php:45
+#: elementor/widgets/partdo-text-banner.php:56 inc/customizer.php:848
+#: inc/customizer.php:2466 inc/customizer.php:2593 inc/customizer.php:3707
+#: inc/customizer.php:3906 inc/customizer.php:4696
+msgid "Title"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:144
+msgid "Hide Out of Stock?"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:146
+#: elementor/classes/class-helpers-functions.php:157
+#: elementor/classes/class-helpers-functions.php:168
+#: elementor/classes/class-helpers-functions.php:179
+#: elementor/widgets/partdo-client-carousel.php:66
+#: elementor/widgets/partdo-client-carousel.php:88
+#: elementor/widgets/partdo-client-carousel.php:99
+#: elementor/widgets/partdo-home-slider.php:49
+#: elementor/widgets/partdo-home-slider.php:71
+#: elementor/widgets/partdo-home-slider.php:82
+#: elementor/widgets/partdo-product-grid.php:93
+#: elementor/widgets/partdo-product-list.php:119
+#: elementor/widgets/partdo-product-list.php:130
+#: elementor/widgets/partdo-product-list.php:141
+#: elementor/widgets/partdo-product-tab-carousel.php:74
+#: elementor/widgets/partdo-product-tab-carousel.php:96
+#: elementor/widgets/partdo-product-tab-carousel.php:107
+#: elementor/widgets/partdo-testimonial-carousel.php:103
+#: elementor/widgets/partdo-testimonial-carousel.php:125
+#: elementor/widgets/partdo-testimonial-carousel.php:136
+#: inc/customizer.php:2220
+msgid "True"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:147
+#: elementor/classes/class-helpers-functions.php:158
+#: elementor/classes/class-helpers-functions.php:169
+#: elementor/classes/class-helpers-functions.php:180
+#: elementor/widgets/partdo-client-carousel.php:67
+#: elementor/widgets/partdo-client-carousel.php:89
+#: elementor/widgets/partdo-client-carousel.php:100
+#: elementor/widgets/partdo-home-slider.php:50
+#: elementor/widgets/partdo-home-slider.php:72
+#: elementor/widgets/partdo-home-slider.php:83
+#: elementor/widgets/partdo-product-grid.php:94
+#: elementor/widgets/partdo-product-list.php:120
+#: elementor/widgets/partdo-product-list.php:131
+#: elementor/widgets/partdo-product-list.php:142
+#: elementor/widgets/partdo-product-tab-carousel.php:75
+#: elementor/widgets/partdo-product-tab-carousel.php:97
+#: elementor/widgets/partdo-product-tab-carousel.php:108
+#: elementor/widgets/partdo-testimonial-carousel.php:104
+#: elementor/widgets/partdo-testimonial-carousel.php:126
+#: elementor/widgets/partdo-testimonial-carousel.php:137
+#: inc/customizer.php:2221
+msgid "False"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:155
+#: elementor/widgets/partdo-product-list.php:117 inc/customizer.php:599
+msgid "On Sale Products?"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:166
+#: elementor/widgets/partdo-product-list.php:128 inc/customizer.php:617
+msgid "Featured Products?"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:177
+#: elementor/widgets/partdo-product-list.php:139 inc/customizer.php:635
+msgid "Best Selling Products?"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:308
+msgid "Settings"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:314
+msgid "Arrow Type"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:319
+msgid "Nav Style 1"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:320
+msgid "Nav Style 2"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:321
+msgid "Nav Style 3"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:322
+msgid "Nav Style 4"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:323
+msgid "Nav Style 5"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:339
+#: elementor/widgets/partdo-button.php:33
+#: woocommerce-filter/swatches/swatches.php:91
+msgid "Button"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:345
+msgid "Button Type"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:349
+#: elementor/classes/class-helpers-functions.php:365
+msgid "Select a option"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:350
+msgid "Primary"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:351
+msgid "Black"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:352
+msgid "White"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:353
+msgid "Outline white"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:354
+msgid "Outline black"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:355
+msgid "Simple Text"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:361
+#: elementor/widgets/partdo-button.php:300
+msgid "Button Style"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:366
+msgid "Square"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:367
+msgid "Round"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:368
+msgid "Circle"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:378
+msgid "Size"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:382
+msgid "Select size"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:383
+msgid "Large"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:384
+msgid "medium"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:385
+msgid "small"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:396
+#: elementor/widgets/partdo-banner-box.php:156
+#: elementor/widgets/partdo-banner-box2.php:133
+#: elementor/widgets/partdo-button.php:168
+#: elementor/widgets/partdo-category-banner.php:160
+#: elementor/widgets/partdo-category-banner2.php:147
+#: elementor/widgets/partdo-contact-form-7.php:53
+#: elementor/widgets/partdo-home-slider.php:232
+msgid "Alignment"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:401
+#: elementor/widgets/partdo-banner-box.php:161
+#: elementor/widgets/partdo-banner-box2.php:138
+#: elementor/widgets/partdo-button.php:173
+#: elementor/widgets/partdo-button.php:280
+#: elementor/widgets/partdo-category-banner.php:165
+#: elementor/widgets/partdo-category-banner2.php:152
+#: elementor/widgets/partdo-contact-form-7.php:58
+#: elementor/widgets/partdo-home-slider.php:237
+msgid "Left"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:405
+#: elementor/widgets/partdo-banner-box.php:165
+#: elementor/widgets/partdo-banner-box2.php:142
+#: elementor/widgets/partdo-button.php:177
+#: elementor/widgets/partdo-category-banner.php:169
+#: elementor/widgets/partdo-category-banner2.php:156
+#: elementor/widgets/partdo-contact-form-7.php:62
+#: elementor/widgets/partdo-home-slider.php:241
+msgid "Center"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:409
+#: elementor/widgets/partdo-banner-box.php:169
+#: elementor/widgets/partdo-banner-box2.php:146
+#: elementor/widgets/partdo-button.php:181
+#: elementor/widgets/partdo-button.php:278
+#: elementor/widgets/partdo-category-banner.php:173
+#: elementor/widgets/partdo-category-banner2.php:160
+#: elementor/widgets/partdo-contact-form-7.php:66
+#: elementor/widgets/partdo-home-slider.php:245
+msgid "Right"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:421
+#: elementor/widgets/partdo-button.php:257
+msgid "Full width"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:433
+#: elementor/classes/class-helpers-functions.php:436
+#: elementor/widgets/partdo-button.php:67
+#: elementor/widgets/partdo-button.php:70
+#: elementor/widgets/partdo-button.php:290 inc/customizer.php:3743
+msgid "Button Text"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:441
+#: elementor/widgets/partdo-banner-box.php:135
+#: elementor/widgets/partdo-banner-box2.php:81
+#: elementor/widgets/partdo-button.php:75
+#: elementor/widgets/partdo-category-banner.php:139
+#: elementor/widgets/partdo-category-banner2.php:126
+#: elementor/widgets/partdo-custom-title.php:74
+#: elementor/widgets/partdo-deals-product.php:63
+#: elementor/widgets/partdo-home-slider.php:171
+#: elementor/widgets/partdo-latest-blog.php:63
+#: elementor/widgets/partdo-product-categories.php:79
+#: elementor/widgets/partdo-product-grid.php:66
+#: elementor/widgets/partdo-product-tab-carousel.php:63
+#: elementor/widgets/partdo-text-banner.php:86
+msgid "Button Link"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:453
+#: elementor/widgets/partdo-button.php:209
+msgid "Button Icon"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:463
+#: elementor/widgets/partdo-button.php:229
+msgid "Icon Position"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:468
+#: elementor/widgets/partdo-button.php:233
+msgid "Before"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:469
+#: elementor/widgets/partdo-button.php:234
+msgid "After"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:476
+#: elementor/widgets/partdo-button.php:306
+#: elementor/widgets/partdo-contact-form-7.php:104
+#: elementor/widgets/partdo-contact-form-7.php:197
+msgid "Normal"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:482
+#: elementor/classes/class-helpers-functions.php:520
+#: elementor/widgets/partdo-button.php:241
+msgid "Icon Spacing"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:498
+#: elementor/classes/class-helpers-functions.php:536
+#: elementor/widgets/partdo-address-box.php:88
+#: elementor/widgets/partdo-address-box.php:145
+#: elementor/widgets/partdo-banner-box.php:213
+#: elementor/widgets/partdo-banner-box.php:272
+#: elementor/widgets/partdo-banner-box.php:320
+#: elementor/widgets/partdo-banner-box.php:373
+#: elementor/widgets/partdo-banner-box2.php:190
+#: elementor/widgets/partdo-banner-box2.php:242
+#: elementor/widgets/partdo-category-banner.php:229
+#: elementor/widgets/partdo-category-banner.php:277
+#: elementor/widgets/partdo-category-banner.php:327
+#: elementor/widgets/partdo-category-banner.php:380
+#: elementor/widgets/partdo-category-banner.php:431
+#: elementor/widgets/partdo-category-banner2.php:204
+#: elementor/widgets/partdo-category-banner2.php:254
+#: elementor/widgets/partdo-category-banner2.php:309
+#: elementor/widgets/partdo-client-carousel.php:194
+#: elementor/widgets/partdo-contact-form-7.php:110
+#: elementor/widgets/partdo-contact-form-7.php:129
+#: elementor/widgets/partdo-contact-form-7.php:148
+#: elementor/widgets/partdo-contact-form-7.php:203
+#: elementor/widgets/partdo-contact-form-7.php:222
+#: elementor/widgets/partdo-contact-icon-box.php:170
+#: elementor/widgets/partdo-contact-icon-box.php:209
+#: elementor/widgets/partdo-contact-icon-box.php:266
+#: elementor/widgets/partdo-custom-title.php:134
+#: elementor/widgets/partdo-custom-title.php:191
+#: elementor/widgets/partdo-custom-title.php:251
+#: elementor/widgets/partdo-deals-product.php:172
+#: elementor/widgets/partdo-deals-product.php:229
+#: elementor/widgets/partdo-deals-product.php:286
+#: elementor/widgets/partdo-home-slider.php:289
+#: elementor/widgets/partdo-home-slider.php:337
+#: elementor/widgets/partdo-home-slider.php:385
+#: elementor/widgets/partdo-home-slider.php:473
+#: elementor/widgets/partdo-icon-box.php:152
+#: elementor/widgets/partdo-icon-box.php:191
+#: elementor/widgets/partdo-icon-box.php:248
+#: elementor/widgets/partdo-icon-list.php:189
+#: elementor/widgets/partdo-icon-list.php:228
+#: elementor/widgets/partdo-icon-list.php:285
+#: elementor/widgets/partdo-latest-blog.php:238
+#: elementor/widgets/partdo-latest-blog.php:295
+#: elementor/widgets/partdo-latest-blog.php:352
+#: elementor/widgets/partdo-page-banner.php:116
+#: elementor/widgets/partdo-page-banner.php:173
+#: elementor/widgets/partdo-product-categories.php:236
+#: elementor/widgets/partdo-product-categories.php:293
+#: elementor/widgets/partdo-product-categories.php:350
+#: elementor/widgets/partdo-product-grid.php:173
+#: elementor/widgets/partdo-product-grid.php:257
+#: elementor/widgets/partdo-product-grid.php:314
+#: elementor/widgets/partdo-product-search.php:187
+#: elementor/widgets/partdo-product-search.php:255
+#: elementor/widgets/partdo-product-search.php:312
+#: elementor/widgets/partdo-product-search.php:364
+#: elementor/widgets/partdo-product-tab-carousel.php:169
+#: elementor/widgets/partdo-product-tab-carousel.php:226
+#: elementor/widgets/partdo-product-tab-carousel.php:283
+#: elementor/widgets/partdo-special-product.php:163
+#: elementor/widgets/partdo-special-product.php:220
+#: elementor/widgets/partdo-special-product2.php:175
+#: elementor/widgets/partdo-special-product2.php:232
+#: elementor/widgets/partdo-testimonial-carousel.php:279
+#: elementor/widgets/partdo-testimonial-carousel.php:336
+#: elementor/widgets/partdo-testimonial-carousel.php:393
+#: elementor/widgets/partdo-text-banner.php:153
+#: elementor/widgets/partdo-text-banner.php:201
+#: elementor/widgets/partdo-text-banner.php:250
+#: elementor/widgets/partdo-text-banner.php:313
+msgid "Opacity"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:514
+#: elementor/widgets/partdo-button.php:378
+#: elementor/widgets/partdo-contact-form-7.php:123
+#: elementor/widgets/partdo-contact-form-7.php:216
+msgid "Hover"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:564
+#: elementor/widgets/partdo-banner-box.php:385
+#: elementor/widgets/partdo-banner-box2.php:254
+#: elementor/widgets/partdo-button.php:311
+#: elementor/widgets/partdo-button.php:382
+#: elementor/widgets/partdo-category-banner2.php:321
+#: elementor/widgets/partdo-home-slider.php:485
+#: elementor/widgets/partdo-product-search.php:376
+#: woocommerce-filter/swatches/swatches.php:89
+#: woocommerce-filter/swatches/swatches.php:121
+msgid "Color"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:577
+#: elementor/widgets/partdo-address-box.php:110
+#: elementor/widgets/partdo-address-box.php:167
+#: elementor/widgets/partdo-banner-box.php:235
+#: elementor/widgets/partdo-banner-box.php:294
+#: elementor/widgets/partdo-banner-box.php:342
+#: elementor/widgets/partdo-banner-box.php:365
+#: elementor/widgets/partdo-banner-box2.php:212
+#: elementor/widgets/partdo-banner-box2.php:234
+#: elementor/widgets/partdo-button.php:321
+#: elementor/widgets/partdo-category-banner.php:251
+#: elementor/widgets/partdo-category-banner.php:299
+#: elementor/widgets/partdo-category-banner.php:351
+#: elementor/widgets/partdo-category-banner.php:404
+#: elementor/widgets/partdo-category-banner.php:453
+#: elementor/widgets/partdo-category-banner2.php:226
+#: elementor/widgets/partdo-category-banner2.php:278
+#: elementor/widgets/partdo-category-banner2.php:301
+#: elementor/widgets/partdo-contact-icon-box.php:231
+#: elementor/widgets/partdo-contact-icon-box.php:288
+#: elementor/widgets/partdo-custom-title.php:156
+#: elementor/widgets/partdo-custom-title.php:213
+#: elementor/widgets/partdo-custom-title.php:275
+#: elementor/widgets/partdo-deals-product.php:194
+#: elementor/widgets/partdo-deals-product.php:251
+#: elementor/widgets/partdo-deals-product.php:308
+#: elementor/widgets/partdo-home-slider.php:311
+#: elementor/widgets/partdo-home-slider.php:359
+#: elementor/widgets/partdo-home-slider.php:407
+#: elementor/widgets/partdo-home-slider.php:443
+#: elementor/widgets/partdo-home-slider.php:465
+#: elementor/widgets/partdo-icon-box.php:213
+#: elementor/widgets/partdo-icon-box.php:270
+#: elementor/widgets/partdo-icon-list.php:250
+#: elementor/widgets/partdo-icon-list.php:307
+#: elementor/widgets/partdo-latest-blog.php:260
+#: elementor/widgets/partdo-latest-blog.php:317
+#: elementor/widgets/partdo-latest-blog.php:374
+#: elementor/widgets/partdo-page-banner.php:138
+#: elementor/widgets/partdo-page-banner.php:195
+#: elementor/widgets/partdo-product-categories.php:258
+#: elementor/widgets/partdo-product-categories.php:315
+#: elementor/widgets/partdo-product-categories.php:372
+#: elementor/widgets/partdo-product-grid.php:195
+#: elementor/widgets/partdo-product-grid.php:279
+#: elementor/widgets/partdo-product-grid.php:336
+#: elementor/widgets/partdo-product-search.php:209
+#: elementor/widgets/partdo-product-search.php:277
+#: elementor/widgets/partdo-product-search.php:334
+#: elementor/widgets/partdo-product-search.php:356
+#: elementor/widgets/partdo-product-tab-carousel.php:191
+#: elementor/widgets/partdo-product-tab-carousel.php:248
+#: elementor/widgets/partdo-product-tab-carousel.php:305
+#: elementor/widgets/partdo-special-product.php:185
+#: elementor/widgets/partdo-special-product.php:242
+#: elementor/widgets/partdo-special-product2.php:197
+#: elementor/widgets/partdo-special-product2.php:254
+#: elementor/widgets/partdo-testimonial-carousel.php:301
+#: elementor/widgets/partdo-testimonial-carousel.php:358
+#: elementor/widgets/partdo-testimonial-carousel.php:415
+#: elementor/widgets/partdo-text-banner.php:175
+#: elementor/widgets/partdo-text-banner.php:223
+#: elementor/widgets/partdo-text-banner.php:274
+#: elementor/widgets/partdo-text-banner.php:335
+msgid "Typography"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:588
+#: elementor/widgets/partdo-banner-box.php:412
+#: elementor/widgets/partdo-banner-box2.php:281
+#: elementor/widgets/partdo-button.php:328
+#: elementor/widgets/partdo-category-banner2.php:348
+#: elementor/widgets/partdo-home-slider.php:512
+#: elementor/widgets/partdo-product-search.php:403
+msgid "Padding"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:607
+msgid "Margin"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:627
+#: elementor/widgets/partdo-banner-box.php:396
+#: elementor/widgets/partdo-banner-box2.php:265
+#: elementor/widgets/partdo-button.php:345
+#: elementor/widgets/partdo-button.php:392
+#: elementor/widgets/partdo-category-banner2.php:332
+#: elementor/widgets/partdo-home-slider.php:496
+#: elementor/widgets/partdo-product-search.php:387
+#: elementor/widgets/partdo-text-banner.php:120
+msgid "Border"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:643
+#: elementor/widgets/partdo-banner-box.php:403
+#: elementor/widgets/partdo-banner-box2.php:272
+#: elementor/widgets/partdo-button.php:352
+#: elementor/widgets/partdo-category-banner2.php:339
+#: elementor/widgets/partdo-home-slider.php:503
+#: elementor/widgets/partdo-product-search.php:394
+#: elementor/widgets/partdo-text-banner.php:127
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:667
+msgid "Box shadow"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:679
+msgid "Text shadow"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:691
+#: elementor/widgets/partdo-banner-box.php:423
+#: elementor/widgets/partdo-banner-box2.php:292
+#: elementor/widgets/partdo-button.php:369
+#: elementor/widgets/partdo-button.php:401
+#: elementor/widgets/partdo-category-banner2.php:359
+#: elementor/widgets/partdo-home-slider.php:523
+#: elementor/widgets/partdo-product-search.php:414
+msgid "Background"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:931
+msgid "None"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:932
+msgid "user"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:933
+msgid "youtube"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:934
+msgid "wordpress"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:935
+msgid "whatsapp"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:936
+msgid "watch"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:937
+msgid "vine"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:938
+msgid "eye"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:939
+msgid "twitter"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:940
+msgid "tripadvisor"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:941
+msgid "support"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:942
+msgid "star"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:943
+msgid "star-outline"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:944
+msgid "spotify"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:945
+msgid "soundcloud"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:946
+msgid "snapchat"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:947
+msgid "skype"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:948
+msgid "send"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:949
+msgid "search"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:950
+msgid "rss"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:951
+msgid "reddit"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:952
+msgid "quality"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:953
+msgid "pinterest"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:954
+msgid "odnoklassniki"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:955
+msgid "next"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:956
+msgid "myspace"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:957
+msgid "menu"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:958
+msgid "linkedin"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:959
+msgid "itunes"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:960
+msgid "internet"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:961
+msgid "instagram"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:962
+msgid "heart"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:963
+msgid "google-plus"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:964
+msgid "google-plus2"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:965
+msgid "github"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:966
+msgid "gift"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:967
+msgid "filter"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:968
+msgid "facebook"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:969
+msgid "exchange"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:970
+msgid "dribbble"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:971
+msgid "document"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:972
+msgid "digg"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:973
+msgid "delete"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:974
+msgid "close"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:975
+#: elementor/widgets/partdo-latest-blog.php:467
+#: elementor/widgets/partdo-latest-blog.php:469
+msgid "comment"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:976
+msgid "charity"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:977
+msgid "cart"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:978
+msgid "calendar"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:979
+msgid "box"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:980
+msgid "behance"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:981
+msgid "bag"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:982
+msgid "back"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:983
+msgid "avatar"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:984
+msgid "apple"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:985
+msgid "arrow-up"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:986
+msgid "arrow-right"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:987
+msgid "arrow-right2"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:988
+msgid "arrow-down"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:989
+msgid "arrow-down2"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:990
+msgid "arrow-500px2"
+msgstr ""
+
+#: elementor/classes/class-helpers-functions.php:991
+msgid "arrow-500px"
+msgstr ""
+
+#: elementor/widgets/partdo-address-box.php:25
+#: elementor/widgets/partdo-banner-box.php:25
+#: elementor/widgets/partdo-banner-box2.php:25
+#: elementor/widgets/partdo-breadcrumb.php:25
+#: elementor/widgets/partdo-category-banner.php:26
+#: elementor/widgets/partdo-category-banner2.php:26
+#: elementor/widgets/partdo-client-carousel.php:25
+#: elementor/widgets/partdo-contact-icon-box.php:25
+#: elementor/widgets/partdo-custom-title.php:25
+#: elementor/widgets/partdo-deals-product.php:26
+#: elementor/widgets/partdo-deals-product2.php:26
+#: elementor/widgets/partdo-home-slider.php:25
+#: elementor/widgets/partdo-icon-box.php:25
+#: elementor/widgets/partdo-icon-list.php:25
+#: elementor/widgets/partdo-latest-blog.php:26
+#: elementor/widgets/partdo-page-banner.php:25
+#: elementor/widgets/partdo-product-categories.php:26
+#: elementor/widgets/partdo-product-grid.php:26
+#: elementor/widgets/partdo-product-list.php:26
+#: elementor/widgets/partdo-product-search.php:26
+#: elementor/widgets/partdo-special-product.php:26
+#: elementor/widgets/partdo-special-product2.php:26
+#: elementor/widgets/partdo-testimonial-carousel.php:25
+#: elementor/widgets/partdo-text-banner.php:25
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/partdo-address-box.php:41
+#: elementor/widgets/partdo-banner-box.php:103
+#: elementor/widgets/partdo-custom-title.php:54
+#: elementor/widgets/partdo-latest-blog.php:43
+#: elementor/widgets/partdo-product-categories.php:57
+#: elementor/widgets/partdo-special-product.php:43
+#: elementor/widgets/partdo-text-banner.php:76 inc/customizer.php:867
+#: inc/customizer.php:2598 inc/customizer.php:3719 inc/customizer.php:3925
+#: inc/customizer.php:4248 inc/customizer.php:4732
+msgid "Subtitle"
+msgstr ""
+
+#: elementor/widgets/partdo-address-box.php:55
+#: elementor/widgets/partdo-banner-box.php:149
+#: elementor/widgets/partdo-banner-box2.php:126
+#: elementor/widgets/partdo-category-banner.php:153
+#: elementor/widgets/partdo-category-banner2.php:140
+#: elementor/widgets/partdo-client-carousel.php:171
+#: elementor/widgets/partdo-contact-icon-box.php:91
+#: elementor/widgets/partdo-custom-title.php:89
+#: elementor/widgets/partdo-deals-product.php:139
+#: elementor/widgets/partdo-home-slider.php:225
+#: elementor/widgets/partdo-icon-box.php:92
+#: elementor/widgets/partdo-icon-list.php:120
+#: elementor/widgets/partdo-latest-blog.php:194
+#: elementor/widgets/partdo-page-banner.php:67
+#: elementor/widgets/partdo-product-categories.php:192
+#: elementor/widgets/partdo-product-grid.php:129
+#: elementor/widgets/partdo-product-search.php:133
+#: elementor/widgets/partdo-product-tab-carousel.php:136
+#: elementor/widgets/partdo-special-product.php:119
+#: elementor/widgets/partdo-special-product2.php:120
+#: elementor/widgets/partdo-testimonial-carousel.php:230
+#: elementor/widgets/partdo-text-banner.php:100
+msgid " Style"
+msgstr ""
+
+#: elementor/widgets/partdo-address-box.php:62
+#: elementor/widgets/partdo-banner-box.php:196
+#: elementor/widgets/partdo-banner-box2.php:173
+#: elementor/widgets/partdo-category-banner.php:260
+#: elementor/widgets/partdo-category-banner2.php:187
+#: elementor/widgets/partdo-contact-icon-box.php:183
+#: elementor/widgets/partdo-custom-title.php:108
+#: elementor/widgets/partdo-deals-product.php:146
+#: elementor/widgets/partdo-home-slider.php:272
+#: elementor/widgets/partdo-icon-box.php:165
+#: elementor/widgets/partdo-icon-list.php:202
+#: elementor/widgets/partdo-latest-blog.php:212
+#: elementor/widgets/partdo-page-banner.php:90
+#: elementor/widgets/partdo-product-categories.php:210
+#: elementor/widgets/partdo-product-grid.php:147
+#: elementor/widgets/partdo-product-search.php:161
+#: elementor/widgets/partdo-product-tab-carousel.php:200
+#: elementor/widgets/partdo-special-product.php:137
+#: elementor/widgets/partdo-special-product2.php:149
+#: elementor/widgets/partdo-text-banner.php:136
+msgid "TITLE"
+msgstr ""
+
+#: elementor/widgets/partdo-address-box.php:70
+#: elementor/widgets/partdo-banner-box.php:204
+#: elementor/widgets/partdo-banner-box2.php:181
+#: elementor/widgets/partdo-category-banner.php:268
+#: elementor/widgets/partdo-category-banner2.php:195
+#: elementor/widgets/partdo-contact-icon-box.php:191
+#: elementor/widgets/partdo-custom-title.php:116
+#: elementor/widgets/partdo-deals-product.php:154
+#: elementor/widgets/partdo-home-slider.php:280
+#: elementor/widgets/partdo-icon-box.php:173
+#: elementor/widgets/partdo-icon-list.php:210
+#: elementor/widgets/partdo-latest-blog.php:220
+#: elementor/widgets/partdo-page-banner.php:98
+#: elementor/widgets/partdo-product-categories.php:218
+#: elementor/widgets/partdo-product-grid.php:155
+#: elementor/widgets/partdo-product-search.php:169
+#: elementor/widgets/partdo-product-tab-carousel.php:208
+#: elementor/widgets/partdo-special-product.php:145
+#: elementor/widgets/partdo-special-product2.php:157
+#: elementor/widgets/partdo-text-banner.php:144 inc/customizer.php:925
+#: inc/customizer.php:2744 inc/customizer.php:3756
+msgid "Title Color"
+msgstr ""
+
+#: elementor/widgets/partdo-address-box.php:79
+#: elementor/widgets/partdo-contact-icon-box.php:200
+#: elementor/widgets/partdo-custom-title.php:125
+#: elementor/widgets/partdo-deals-product.php:163
+#: elementor/widgets/partdo-icon-box.php:182
+#: elementor/widgets/partdo-icon-list.php:219
+#: elementor/widgets/partdo-latest-blog.php:229
+#: elementor/widgets/partdo-page-banner.php:107
+#: elementor/widgets/partdo-product-categories.php:227
+#: elementor/widgets/partdo-product-grid.php:164
+#: elementor/widgets/partdo-product-search.php:178
+#: elementor/widgets/partdo-product-tab-carousel.php:217
+#: elementor/widgets/partdo-special-product.php:154
+#: elementor/widgets/partdo-special-product2.php:166
+msgid "Title Hover Color"
+msgstr ""
+
+#: elementor/widgets/partdo-address-box.php:119
+#: elementor/widgets/partdo-banner-box.php:244
+#: elementor/widgets/partdo-category-banner.php:308
+#: elementor/widgets/partdo-category-banner2.php:235
+#: elementor/widgets/partdo-custom-title.php:165
+#: elementor/widgets/partdo-home-slider.php:320
+#: elementor/widgets/partdo-latest-blog.php:269
+#: elementor/widgets/partdo-product-categories.php:267
+#: elementor/widgets/partdo-special-product.php:194
+#: elementor/widgets/partdo-special-product2.php:206
+#: elementor/widgets/partdo-text-banner.php:184
+msgid "SUBTITLE"
+msgstr ""
+
+#: elementor/widgets/partdo-address-box.php:127
+#: elementor/widgets/partdo-banner-box.php:263
+#: elementor/widgets/partdo-category-banner.php:317
+#: elementor/widgets/partdo-category-banner2.php:244
+#: elementor/widgets/partdo-custom-title.php:173
+#: elementor/widgets/partdo-home-slider.php:328
+#: elementor/widgets/partdo-latest-blog.php:277
+#: elementor/widgets/partdo-product-categories.php:275
+#: elementor/widgets/partdo-special-product.php:202
+#: elementor/widgets/partdo-special-product2.php:214
+#: elementor/widgets/partdo-text-banner.php:192 inc/customizer.php:944
+#: inc/customizer.php:2768 inc/customizer.php:3780
+msgid "Subtitle Color"
+msgstr ""
+
+#: elementor/widgets/partdo-address-box.php:136
+#: elementor/widgets/partdo-custom-title.php:182
+#: elementor/widgets/partdo-latest-blog.php:286
+#: elementor/widgets/partdo-product-categories.php:284
+#: elementor/widgets/partdo-special-product.php:211
+#: elementor/widgets/partdo-special-product2.php:223
+msgid "Subtitle Hover Color"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:32
+#: elementor/widgets/partdo-category-banner.php:33
+#: elementor/widgets/partdo-category-banner2.php:33
+#: elementor/widgets/partdo-text-banner.php:32
+msgid "Banner Type"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:41
+msgid "Type 5"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:42
+msgid "Type 6"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:43
+msgid "Type 7"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:44
+msgid "Type 8"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:45
+msgid "Type 9"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:56
+#: elementor/widgets/partdo-banner-box2.php:47
+msgid "30"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:57
+#: elementor/widgets/partdo-banner-box2.php:48
+msgid "40"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:58
+#: elementor/widgets/partdo-banner-box2.php:49
+msgid "50"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:59
+#: elementor/widgets/partdo-banner-box2.php:50
+msgid "60"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:60
+#: elementor/widgets/partdo-banner-box2.php:51
+msgid "70"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:61
+#: elementor/widgets/partdo-banner-box2.php:52
+msgid "80"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:62
+#: elementor/widgets/partdo-banner-box2.php:53
+msgid "90"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:63
+#: elementor/widgets/partdo-banner-box2.php:54
+msgid "100"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:70
+#: elementor/widgets/partdo-category-banner.php:47
+#: elementor/widgets/partdo-category-banner2.php:46
+msgid "Text Color"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:75
+#: elementor/widgets/partdo-category-banner.php:52
+#: elementor/widgets/partdo-category-banner2.php:51
+msgid "Dark "
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:76
+#: elementor/widgets/partdo-category-banner.php:53
+#: elementor/widgets/partdo-category-banner2.php:52
+msgid "Light "
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:85
+#: elementor/widgets/partdo-banner-box2.php:35
+#: elementor/widgets/partdo-button.php:88
+#: elementor/widgets/partdo-category-banner.php:79
+#: elementor/widgets/partdo-category-banner2.php:77
+#: elementor/widgets/partdo-client-carousel.php:111
+#: elementor/widgets/partdo-home-slider.php:104
+#: elementor/widgets/partdo-page-banner.php:34
+#: elementor/widgets/partdo-testimonial-carousel.php:149 inc/customizer.php:826
+#: inc/customizer.php:2610 inc/customizer.php:2700 inc/customizer.php:3693
+#: inc/customizer.php:4116 inc/customizer.php:4200 inc/customizer.php:4466
+#: inc/customizer.php:4581 woocommerce-filter/swatches/swatches.php:90
+msgid "Image"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:114
+#: elementor/widgets/partdo-contact-icon-box.php:77
+#: elementor/widgets/partdo-deals-product.php:43
+#: elementor/widgets/partdo-icon-box.php:78
+#: elementor/widgets/partdo-icon-list.php:79
+#: elementor/widgets/partdo-page-banner.php:52
+#: elementor/widgets/partdo-product-search.php:42
+#: elementor/widgets/partdo-special-product2.php:43 inc/customizer.php:3944
+msgid "Description"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:125
+#: elementor/widgets/partdo-banner-box2.php:71
+#: elementor/widgets/partdo-category-banner.php:129
+#: elementor/widgets/partdo-category-banner2.php:116
+#: elementor/widgets/partdo-custom-title.php:63
+#: elementor/widgets/partdo-deals-product.php:53
+#: elementor/widgets/partdo-home-slider.php:161
+#: elementor/widgets/partdo-latest-blog.php:53
+#: elementor/widgets/partdo-product-categories.php:68
+#: elementor/widgets/partdo-product-grid.php:56
+#: elementor/widgets/partdo-product-tab-carousel.php:53 inc/customizer.php:542
+msgid "Button Title"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:129
+#: elementor/widgets/partdo-banner-box2.php:75
+#: elementor/widgets/partdo-category-banner.php:133
+#: elementor/widgets/partdo-category-banner2.php:120
+#: elementor/widgets/partdo-custom-title.php:67
+#: elementor/widgets/partdo-deals-product.php:57
+#: elementor/widgets/partdo-home-slider.php:165
+#: elementor/widgets/partdo-latest-blog.php:57
+#: elementor/widgets/partdo-product-categories.php:72
+#: elementor/widgets/partdo-product-grid.php:60
+#: elementor/widgets/partdo-product-tab-carousel.php:57
+msgid "Enter button title here"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:138
+#: elementor/widgets/partdo-banner-box2.php:84
+#: elementor/widgets/partdo-category-banner.php:142
+#: elementor/widgets/partdo-category-banner2.php:129
+#: elementor/widgets/partdo-client-carousel.php:121
+#: elementor/widgets/partdo-custom-title.php:77
+#: elementor/widgets/partdo-deals-product.php:66
+#: elementor/widgets/partdo-home-slider.php:174
+#: elementor/widgets/partdo-latest-blog.php:66
+#: elementor/widgets/partdo-product-categories.php:82
+#: elementor/widgets/partdo-product-grid.php:69
+#: elementor/widgets/partdo-product-tab-carousel.php:66
+#: elementor/widgets/partdo-text-banner.php:89
+msgid "Place URL here"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:180
+#: elementor/widgets/partdo-banner-box2.php:157
+#: elementor/widgets/partdo-category-banner.php:184
+#: elementor/widgets/partdo-category-banner2.php:171
+#: elementor/widgets/partdo-client-carousel.php:178
+#: elementor/widgets/partdo-home-slider.php:256
+#: elementor/widgets/partdo-page-banner.php:74
+#: elementor/widgets/partdo-testimonial-carousel.php:237
+msgid "IMAGE"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:252
+#: elementor/widgets/partdo-category-banner.php:208
+#: elementor/widgets/partdo-product-grid.php:211
+#: elementor/widgets/partdo-product-search.php:142
+#: elementor/widgets/partdo-text-banner.php:107
+#: elementor/widgets/partdo-text-banner.php:292
+msgid "Background Color"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:303
+#: elementor/widgets/partdo-category-banner.php:361
+#: elementor/widgets/partdo-contact-icon-box.php:240
+#: elementor/widgets/partdo-deals-product.php:203
+#: elementor/widgets/partdo-home-slider.php:368
+#: elementor/widgets/partdo-icon-box.php:222
+#: elementor/widgets/partdo-icon-list.php:259
+#: elementor/widgets/partdo-page-banner.php:147
+#: elementor/widgets/partdo-product-search.php:218
+msgid "DESCRIPTION"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:311
+#: elementor/widgets/partdo-category-banner.php:370
+#: elementor/widgets/partdo-contact-icon-box.php:248
+#: elementor/widgets/partdo-deals-product.php:211
+#: elementor/widgets/partdo-home-slider.php:376
+#: elementor/widgets/partdo-icon-box.php:230
+#: elementor/widgets/partdo-icon-list.php:267
+#: elementor/widgets/partdo-page-banner.php:155
+#: elementor/widgets/partdo-product-search.php:237 inc/customizer.php:2780
+msgid "Description Color"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box.php:356
+#: elementor/widgets/partdo-banner-box2.php:225
+#: elementor/widgets/partdo-category-banner2.php:292
+#: elementor/widgets/partdo-home-slider.php:456
+#: elementor/widgets/partdo-product-search.php:347
+msgid " Button Style"
+msgstr ""
+
+#: elementor/widgets/partdo-banner-box2.php:90
+msgid "Banner Items"
+msgstr ""
+
+#: elementor/widgets/partdo-breadcrumb.php:32
+msgid "Page/Post Color"
+msgstr ""
+
+#: elementor/widgets/partdo-breadcrumb.php:41
+msgid "Separator Color"
+msgstr ""
+
+#: elementor/widgets/partdo-breadcrumb.php:49
+msgid "Current Page/Post Color"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:39
+msgid "Action Type"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:43
+msgid "Link"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:44
+msgid "Single Image"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:45
+msgid "Youtube"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:46
+msgid "Vimeo"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:47
+msgid "Google Map"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:48
+msgid "HTML5 Video"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:49
+#: elementor/widgets/partdo-button.php:142
+msgid "Modal Content"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:55
+msgid "Link Type"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:59
+msgid "External"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:60
+msgid "Internal"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:96
+msgid "Lightbox Title"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:105
+msgid "Youtube Video URL"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:114
+msgid "Vimeo Video URL"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:123
+msgid "Iframe Map URL"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:132
+msgid "HTML5 Video URL"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:136
+msgid "Add your local video here"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:146
+msgid "Add html content here"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:152
+msgid "Modal Content Width"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:191
+msgid "Use Icon"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:199
+#: elementor/widgets/partdo-contact-icon-box.php:33
+#: elementor/widgets/partdo-icon-box.php:33
+#: elementor/widgets/partdo-icon-list.php:35
+msgid "Use Custom Icon"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:220
+#: elementor/widgets/partdo-contact-icon-box.php:58
+#: elementor/widgets/partdo-icon-box.php:58
+#: elementor/widgets/partdo-icon-list.php:60
+msgid "Custom Icon"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:265
+msgid "Tooltips"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:273
+msgid "Tooltip Position"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:277
+msgid "Top"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:279
+msgid "Bottom"
+msgstr ""
+
+#: elementor/widgets/partdo-button.php:287
+msgid "Tooltip Text"
+msgstr ""
+
+#: elementor/widgets/partdo-category-banner.php:38
+#: elementor/widgets/partdo-category-banner2.php:38
+#: elementor/widgets/partdo-product-grid.php:38
+#: elementor/widgets/partdo-product-tab-carousel.php:37
+#: woocommerce-filter/product-badge/product-badge.php:48
+#: woocommerce-filter/product-badge/product-badge.php:80
+msgid "Style 1"
+msgstr ""
+
+#: elementor/widgets/partdo-category-banner.php:39
+#: elementor/widgets/partdo-category-banner2.php:39
+#: elementor/widgets/partdo-product-grid.php:39
+#: elementor/widgets/partdo-product-tab-carousel.php:38
+#: woocommerce-filter/product-badge/product-badge.php:49
+#: woocommerce-filter/product-badge/product-badge.php:81
+msgid "Style 2"
+msgstr ""
+
+#: elementor/widgets/partdo-category-banner.php:40
+#: woocommerce-filter/product-badge/product-badge.php:50
+#: woocommerce-filter/product-badge/product-badge.php:82
+msgid "Style 3"
+msgstr ""
+
+#: elementor/widgets/partdo-category-banner.php:70
+#: elementor/widgets/partdo-category-banner2.php:68 inc/customizer.php:1720
+#: inc/customizer.php:3642 widgets/widget-banner.php:7
+msgid "Banner"
+msgstr ""
+
+#: elementor/widgets/partdo-category-banner.php:87
+#: elementor/widgets/partdo-category-banner2.php:85
+msgid "Banner Title"
+msgstr ""
+
+#: elementor/widgets/partdo-category-banner.php:97
+#: elementor/widgets/partdo-category-banner2.php:95
+msgid "Banner Subtitle"
+msgstr ""
+
+#: elementor/widgets/partdo-category-banner.php:107
+#: elementor/widgets/partdo-category-banner2.php:105
+msgid "Banner Description"
+msgstr ""
+
+#: elementor/widgets/partdo-category-banner.php:118
+msgid "Percentage"
+msgstr ""
+
+#: elementor/widgets/partdo-category-banner.php:200
+msgid "PERCENTAGE"
+msgstr ""
+
+#: elementor/widgets/partdo-category-banner.php:220
+msgid "Percentage Color"
+msgstr ""
+
+#: elementor/widgets/partdo-category-banner.php:414
+#: elementor/widgets/partdo-custom-title.php:222
+#: elementor/widgets/partdo-deals-product.php:260
+#: elementor/widgets/partdo-latest-blog.php:326
+#: elementor/widgets/partdo-product-categories.php:324
+#: elementor/widgets/partdo-product-grid.php:288
+#: elementor/widgets/partdo-product-tab-carousel.php:257
+msgid "BUTTON"
+msgstr ""
+
+#: elementor/widgets/partdo-category-banner.php:422
+#: elementor/widgets/partdo-custom-title.php:231
+#: elementor/widgets/partdo-deals-product.php:268
+#: elementor/widgets/partdo-latest-blog.php:334
+#: elementor/widgets/partdo-product-categories.php:332
+#: elementor/widgets/partdo-product-grid.php:296
+#: elementor/widgets/partdo-product-tab-carousel.php:265
+#: inc/customizer.php:2792 inc/customizer.php:3792
+msgid "Button Color"
+msgstr ""
+
+#: elementor/widgets/partdo-client-carousel.php:41
+#: elementor/widgets/partdo-product-categories.php:137
+#: elementor/widgets/partdo-testimonial-carousel.php:66
+msgid "6 Columns"
+msgstr ""
+
+#: elementor/widgets/partdo-client-carousel.php:42
+msgid "7 Columns"
+msgstr ""
+
+#: elementor/widgets/partdo-client-carousel.php:43
+msgid "8 Columns"
+msgstr ""
+
+#: elementor/widgets/partdo-client-carousel.php:64
+#: elementor/widgets/partdo-home-slider.php:47
+#: elementor/widgets/partdo-product-tab-carousel.php:72
+#: elementor/widgets/partdo-testimonial-carousel.php:101
+msgid "Auto Play"
+msgstr ""
+
+#: elementor/widgets/partdo-client-carousel.php:75
+#: elementor/widgets/partdo-home-slider.php:58
+#: elementor/widgets/partdo-product-tab-carousel.php:83
+#: elementor/widgets/partdo-testimonial-carousel.php:112
+msgid "Auto Speed"
+msgstr ""
+
+#: elementor/widgets/partdo-client-carousel.php:79
+#: elementor/widgets/partdo-home-slider.php:62
+#: elementor/widgets/partdo-product-tab-carousel.php:87
+#: elementor/widgets/partdo-testimonial-carousel.php:116
+msgid "Set auto speed."
+msgstr ""
+
+#: elementor/widgets/partdo-client-carousel.php:86
+#: elementor/widgets/partdo-home-slider.php:69
+#: elementor/widgets/partdo-product-tab-carousel.php:105
+#: elementor/widgets/partdo-testimonial-carousel.php:123
+msgid "Dots"
+msgstr ""
+
+#: elementor/widgets/partdo-client-carousel.php:97
+#: elementor/widgets/partdo-home-slider.php:80
+#: elementor/widgets/partdo-product-tab-carousel.php:94
+#: elementor/widgets/partdo-testimonial-carousel.php:134
+msgid "Arrows"
+msgstr ""
+
+#: elementor/widgets/partdo-client-carousel.php:118
+msgid "Image Link"
+msgstr ""
+
+#: elementor/widgets/partdo-client-carousel.php:127
+#: elementor/widgets/partdo-icon-list.php:88
+msgid "Icon Items"
+msgstr ""
+
+#: elementor/widgets/partdo-contact-form-7.php:25
+msgid "Form Data"
+msgstr ""
+
+#: elementor/widgets/partdo-contact-form-7.php:32
+msgid "Select Form"
+msgstr ""
+
+#: elementor/widgets/partdo-contact-form-7.php:46
+msgid "Form Style"
+msgstr ""
+
+#: elementor/widgets/partdo-contact-form-7.php:78
+#: elementor/widgets/partdo-contact-form-7.php:171
+msgid "Form Max Width"
+msgstr ""
+
+#: elementor/widgets/partdo-contact-form-7.php:91
+#: elementor/widgets/partdo-contact-form-7.php:184
+msgid "Input Height"
+msgstr ""
+
+#: elementor/widgets/partdo-contact-form-7.php:142
+msgid "Focus"
+msgstr ""
+
+#: elementor/widgets/partdo-contact-form-7.php:165
+msgid "Form Button Style"
+msgstr ""
+
+#: elementor/widgets/partdo-contact-form-7.php:244
+msgid "Please Select a Form"
+msgstr ""
+
+#: elementor/widgets/partdo-contact-icon-box.php:45
+#: elementor/widgets/partdo-icon-box.php:45
+#: elementor/widgets/partdo-icon-list.php:47 inc/customizer.php:2028
+#: inc/customizer.php:2588 inc/customizer.php:3672 inc/customizer.php:4238
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/partdo-contact-icon-box.php:71
+#: elementor/widgets/partdo-icon-box.php:71
+msgid "Enter title here"
+msgstr ""
+
+#: elementor/widgets/partdo-contact-icon-box.php:79
+#: elementor/widgets/partdo-icon-box.php:80
+#: elementor/widgets/partdo-icon-list.php:72
+#: elementor/widgets/partdo-icon-list.php:81
+msgid "Enter desc here"
+msgstr ""
+
+#: elementor/widgets/partdo-contact-icon-box.php:98
+#: elementor/widgets/partdo-icon-box.php:99
+#: elementor/widgets/partdo-icon-list.php:136
+msgid "ICON"
+msgstr ""
+
+#: elementor/widgets/partdo-contact-icon-box.php:105
+#: elementor/widgets/partdo-custom-title.php:96
+#: elementor/widgets/partdo-icon-list.php:127
+#: elementor/widgets/partdo-latest-blog.php:201
+#: elementor/widgets/partdo-product-categories.php:199
+#: elementor/widgets/partdo-product-grid.php:136
+#: elementor/widgets/partdo-product-search.php:226
+#: elementor/widgets/partdo-special-product.php:126
+#: elementor/widgets/partdo-special-product2.php:138
+msgid "Border Color"
+msgstr ""
+
+#: elementor/widgets/partdo-contact-icon-box.php:114
+#: elementor/widgets/partdo-icon-box.php:106
+#: elementor/widgets/partdo-icon-list.php:143
+msgid "Icon Right"
+msgstr ""
+
+#: elementor/widgets/partdo-contact-icon-box.php:124
+#: elementor/widgets/partdo-icon-box.php:116
+#: elementor/widgets/partdo-icon-list.php:153
+msgid "Icon Size"
+msgstr ""
+
+#: elementor/widgets/partdo-contact-icon-box.php:134
+msgid "Icon Padding"
+msgstr ""
+
+#: elementor/widgets/partdo-contact-icon-box.php:144
+#: elementor/widgets/partdo-icon-box.php:126
+#: elementor/widgets/partdo-icon-list.php:163
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/widgets/partdo-contact-icon-box.php:153
+#: elementor/widgets/partdo-icon-box.php:135
+#: elementor/widgets/partdo-icon-list.php:172
+msgid "Icon Hover Color"
+msgstr ""
+
+#: elementor/widgets/partdo-contact-icon-box.php:257
+#: elementor/widgets/partdo-deals-product.php:220
+#: elementor/widgets/partdo-icon-box.php:239
+#: elementor/widgets/partdo-icon-list.php:276
+#: elementor/widgets/partdo-page-banner.php:164
+#: elementor/widgets/partdo-product-search.php:246
+msgid "Description Hover Color"
+msgstr ""
+
+#: elementor/widgets/partdo-custom-title.php:32
+msgid "Title Type"
+msgstr ""
+
+#: elementor/widgets/partdo-custom-title.php:48
+msgid "Set a title."
+msgstr ""
+
+#: elementor/widgets/partdo-custom-title.php:57
+msgid "Set a subtitle."
+msgstr ""
+
+#: elementor/widgets/partdo-custom-title.php:241
+#: elementor/widgets/partdo-deals-product.php:277
+#: elementor/widgets/partdo-latest-blog.php:343
+#: elementor/widgets/partdo-product-categories.php:341
+#: elementor/widgets/partdo-product-grid.php:305
+#: elementor/widgets/partdo-product-tab-carousel.php:274
+msgid "Button Hover Color"
+msgstr ""
+
+#: elementor/widgets/partdo-deals-product.php:404
+#: elementor/widgets/partdo-deals-product2.php:167
+#: elementor/widgets/partdo-special-product.php:319
+#: elementor/widgets/partdo-special-product2.php:335
+#, php-format
+msgid "Only %s left in stock"
+msgstr ""
+
+#: elementor/widgets/partdo-deals-product.php:449
+#: elementor/widgets/partdo-deals-product2.php:205
+#: elementor/widgets/partdo-product-list.php:257
+#: elementor/widgets/partdo-special-product.php:377
+#: elementor/widgets/partdo-special-product2.php:378
+#, php-format
+msgid "%d review"
+msgid_plural "%d reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: elementor/widgets/partdo-deals-product.php:460
+#: elementor/widgets/partdo-deals-product2.php:224
+#: elementor/widgets/partdo-special-product.php:396
+#: elementor/widgets/partdo-special-product2.php:388
+#: woocommerce-filter/woocommerce-filter.php:500
+msgid "Available:"
+msgstr ""
+
+#: elementor/widgets/partdo-deals-product.php:462
+#: elementor/widgets/partdo-deals-product2.php:226
+#: elementor/widgets/partdo-special-product.php:398
+#: elementor/widgets/partdo-special-product2.php:390
+#: woocommerce-filter/woocommerce-filter.php:502
+msgid "Sold:"
+msgstr ""
+
+#: elementor/widgets/partdo-home-slider.php:32
+msgid "Slider Type"
+msgstr ""
+
+#: elementor/widgets/partdo-home-slider.php:91
+#: elementor/widgets/partdo-product-tab-carousel.php:116
+msgid "Slide Speed"
+msgstr ""
+
+#: elementor/widgets/partdo-home-slider.php:95
+#: elementor/widgets/partdo-product-tab-carousel.php:120
+msgid "Set slide speed."
+msgstr ""
+
+#: elementor/widgets/partdo-home-slider.php:111
+msgid "Item Title"
+msgstr ""
+
+#: elementor/widgets/partdo-home-slider.php:115
+msgid "Enter item title here."
+msgstr ""
+
+#: elementor/widgets/partdo-home-slider.php:121
+msgid "Item Subtitle"
+msgstr ""
+
+#: elementor/widgets/partdo-home-slider.php:125
+msgid "Enter item subtitle here."
+msgstr ""
+
+#: elementor/widgets/partdo-home-slider.php:131
+msgid "Item Description"
+msgstr ""
+
+#: elementor/widgets/partdo-home-slider.php:135
+msgid "Enter item desc here."
+msgstr ""
+
+#: elementor/widgets/partdo-home-slider.php:141
+msgid "Item Regular Price"
+msgstr ""
+
+#: elementor/widgets/partdo-home-slider.php:145
+#: elementor/widgets/partdo-home-slider.php:155
+msgid "Add a price."
+msgstr ""
+
+#: elementor/widgets/partdo-home-slider.php:151
+msgid "Item Sale Price"
+msgstr ""
+
+#: elementor/widgets/partdo-home-slider.php:180
+msgid "Slide Items"
+msgstr ""
+
+#: elementor/widgets/partdo-home-slider.php:416
+msgid "PRICE TEXT"
+msgstr ""
+
+#: elementor/widgets/partdo-home-slider.php:424
+msgid "Price Text Color"
+msgstr ""
+
+#: elementor/widgets/partdo-latest-blog.php:37
+#: elementor/widgets/partdo-product-categories.php:50
+msgid "Add a title."
+msgstr ""
+
+#: elementor/widgets/partdo-latest-blog.php:47
+#: elementor/widgets/partdo-product-categories.php:61
+msgid "Add a subtitle."
+msgstr ""
+
+#: elementor/widgets/partdo-latest-blog.php:97
+msgid "Excerpt Size"
+msgstr ""
+
+#: elementor/widgets/partdo-latest-blog.php:107
+msgid "Category"
+msgstr ""
+
+#: elementor/widgets/partdo-latest-blog.php:118
+msgid "Specific Post(s)"
+msgstr ""
+
+#: elementor/widgets/partdo-latest-blog.php:157
+msgid "Disable Pagination"
+msgstr ""
+
+#: elementor/widgets/partdo-latest-blog.php:168
+msgid "Image Width"
+msgstr ""
+
+#: elementor/widgets/partdo-latest-blog.php:172
+msgid "Set the product image width."
+msgstr ""
+
+#: elementor/widgets/partdo-latest-blog.php:178
+msgid "Image Height"
+msgstr ""
+
+#: elementor/widgets/partdo-latest-blog.php:182
+msgid "Set the product image height."
+msgstr ""
+
+#: elementor/widgets/partdo-latest-blog.php:464
+msgid "author"
+msgstr ""
+
+#: elementor/widgets/partdo-latest-blog.php:464
+msgid "by"
+msgstr ""
+
+#: elementor/widgets/partdo-latest-blog.php:467
+msgid "comments"
+msgstr ""
+
+#: elementor/widgets/partdo-product-categories.php:33
+msgid "Category Type"
+msgstr ""
+
+#: elementor/widgets/partdo-product-categories.php:38
+msgid "type 1"
+msgstr ""
+
+#: elementor/widgets/partdo-product-categories.php:39
+msgid "type 2"
+msgstr ""
+
+#: elementor/widgets/partdo-product-categories.php:89
+#: elementor/widgets/partdo-product-categories.php:94
+msgid "Include Category"
+msgstr ""
+
+#: elementor/widgets/partdo-product-categories.php:107
+#: elementor/widgets/partdo-product-categories.php:112
+msgid "Exclude Category"
+msgstr ""
+
+#: elementor/widgets/partdo-product-categories.php:443
+msgid "All"
+msgstr ""
+
+#: elementor/widgets/partdo-product-categories.php:483
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: elementor/widgets/partdo-product-grid.php:33
+msgid "Product Grid Type"
+msgstr ""
+
+#: elementor/widgets/partdo-product-grid.php:84
+#: elementor/widgets/partdo-product-grid.php:91
+msgid "Countdown"
+msgstr ""
+
+#: elementor/widgets/partdo-product-grid.php:102
+msgid "Due Date"
+msgstr ""
+
+#: elementor/widgets/partdo-product-grid.php:112
+#: elementor/widgets/partdo-product-list.php:46
+msgid "Countdown Title"
+msgstr ""
+
+#: elementor/widgets/partdo-product-grid.php:203
+msgid "COUNTDOWN"
+msgstr ""
+
+#: elementor/widgets/partdo-product-grid.php:222
+msgid "Countdown Color"
+msgstr ""
+
+#: elementor/widgets/partdo-product-grid.php:231
+msgid "COUNTDOWN TITLE"
+msgstr ""
+
+#: elementor/widgets/partdo-product-grid.php:239
+msgid "Countdown Title Color"
+msgstr ""
+
+#: elementor/widgets/partdo-product-grid.php:248
+msgid "Countdown Title Hover Color"
+msgstr ""
+
+#: elementor/widgets/partdo-product-list.php:33
+msgid "Product List Type"
+msgstr ""
+
+#: elementor/widgets/partdo-product-search.php:52
+msgid "Filter Attributes"
+msgstr ""
+
+#: elementor/widgets/partdo-product-search.php:64
+msgid "Attributes"
+msgstr ""
+
+#: elementor/widgets/partdo-product-search.php:81
+msgid "Button text"
+msgstr ""
+
+#: elementor/widgets/partdo-product-search.php:90
+msgid "Button Subtitle"
+msgstr ""
+
+#: elementor/widgets/partdo-product-search.php:150
+msgid "\tBorder Color"
+msgstr ""
+
+#: elementor/widgets/partdo-product-search.php:286
+msgid "BUTTON SUBTITLE"
+msgstr ""
+
+#: elementor/widgets/partdo-product-search.php:294
+msgid "Button Subtitle Color"
+msgstr ""
+
+#: elementor/widgets/partdo-product-search.php:303
+msgid "Button Subtitle Hover Color"
+msgstr ""
+
+#: elementor/widgets/partdo-product-search.php:456
+#: elementor/widgets/partdo-product-search.php:470
+#: widgets/widget-search-filter.php:54
+msgid "Select"
+msgstr ""
+
+#: elementor/widgets/partdo-product-search.php:456
+#: elementor/widgets/partdo-product-search.php:470
+#: inc/klb-attribute-search/klb-attribute-search.php:30
+#: widgets/widget-search-filter.php:54 widgets/widget-search-filter.php:69
+msgid "Search item..."
+msgstr ""
+
+#: elementor/widgets/partdo-product-search.php:457
+#: widgets/widget-search-filter.php:56
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: elementor/widgets/partdo-product-search.php:470
+msgid "Model"
+msgstr ""
+
+#: elementor/widgets/partdo-product-search.php:471
+#: widgets/widget-search-filter.php:70
+#, php-format
+msgid "Select %s First"
+msgstr ""
+
+#: elementor/widgets/partdo-product-tab-carousel.php:25
+msgid "Products"
+msgstr ""
+
+#: elementor/widgets/partdo-product-tab-carousel.php:143
+msgid "CATEGORY"
+msgstr ""
+
+#: elementor/widgets/partdo-product-tab-carousel.php:151
+msgid "Category Color"
+msgstr ""
+
+#: elementor/widgets/partdo-product-tab-carousel.php:160
+msgid "Category Hover Color"
+msgstr ""
+
+#: elementor/widgets/partdo-special-product2.php:127
+msgid "Badge Background Color"
+msgstr ""
+
+#: elementor/widgets/partdo-testimonial-carousel.php:32
+msgid "Testimonial Type"
+msgstr ""
+
+#: elementor/widgets/partdo-testimonial-carousel.php:61
+msgid "1 Columns"
+msgstr ""
+
+#: elementor/widgets/partdo-testimonial-carousel.php:87
+msgid "Tablet Column"
+msgstr ""
+
+#: elementor/widgets/partdo-testimonial-carousel.php:157
+msgid "Name"
+msgstr ""
+
+#: elementor/widgets/partdo-testimonial-carousel.php:167
+msgid "Position"
+msgstr ""
+
+#: elementor/widgets/partdo-testimonial-carousel.php:170
+msgid "Enter the customer job."
+msgstr ""
+
+#: elementor/widgets/partdo-testimonial-carousel.php:177
+msgid "Comment"
+msgstr ""
+
+#: elementor/widgets/partdo-testimonial-carousel.php:187
+msgid "Testimonial Items"
+msgstr ""
+
+#: elementor/widgets/partdo-testimonial-carousel.php:253
+msgid "NAME"
+msgstr ""
+
+#: elementor/widgets/partdo-testimonial-carousel.php:261
+msgid "Name Color"
+msgstr ""
+
+#: elementor/widgets/partdo-testimonial-carousel.php:270
+msgid "Name Hover Color"
+msgstr ""
+
+#: elementor/widgets/partdo-testimonial-carousel.php:310
+msgid "POSITION"
+msgstr ""
+
+#: elementor/widgets/partdo-testimonial-carousel.php:318
+msgid "Position Color"
+msgstr ""
+
+#: elementor/widgets/partdo-testimonial-carousel.php:327
+msgid "Position Hover Color"
+msgstr ""
+
+#: elementor/widgets/partdo-testimonial-carousel.php:367
+msgid "COMMENT"
+msgstr ""
+
+#: elementor/widgets/partdo-testimonial-carousel.php:375
+msgid "Comment Color"
+msgstr ""
+
+#: elementor/widgets/partdo-testimonial-carousel.php:384
+msgid "Comment Hover Color"
+msgstr ""
+
+#: elementor/widgets/partdo-text-banner.php:45
+msgid "Coupon Sale"
+msgstr ""
+
+#: elementor/widgets/partdo-text-banner.php:66
+msgid "Coupon Code"
+msgstr ""
+
+#: elementor/widgets/partdo-text-banner.php:231
+msgid "COUPON SALE"
+msgstr ""
+
+#: elementor/widgets/partdo-text-banner.php:240
+msgid "Coupon Sale Color"
+msgstr ""
+
+#: elementor/widgets/partdo-text-banner.php:284
+msgid "COUPON"
+msgstr ""
+
+#: elementor/widgets/partdo-text-banner.php:304
+msgid "Coupon Color"
+msgstr ""
+
+#: inc/breadcrumb.php:29
+msgid "Our Blog"
+msgstr ""
+
+#: inc/breadcrumb.php:30 inc/breadcrumb.php:32
+#: woocommerce-filter/mobile-filter/mobile-filter.php:72
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumb.php:76
+msgid "Category : "
+msgstr ""
+
+#: inc/breadcrumb.php:78
+msgid "Tag : "
+msgstr ""
+
+#: inc/breadcrumb.php:91
+msgid "Error 404"
+msgstr ""
+
+#: inc/breadcrumb.php:93 inc/customizer.php:2020
+#: woocommerce-filter/mobile-filter/mobile-filter.php:89
+msgid "Search"
+msgstr ""
+
+#: inc/customizer.php:29 inc/customizer.php:1703
+msgid "Shop Settings"
+msgstr ""
+
+#: inc/customizer.php:30
+msgid "You can customize the shop settings."
+msgstr ""
+
+#: inc/customizer.php:34
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "You can customize the blog settings."
+msgstr ""
+
+#: inc/customizer.php:39 inc/customizer.php:120
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "You can customize the header settings."
+msgstr ""
+
+#: inc/customizer.php:44 inc/customizer.php:3360
+msgid "Main Color"
+msgstr ""
+
+#: inc/customizer.php:45 inc/customizer.php:3361
+msgid "You can customize the main color."
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Elementor Templates"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "You can customize the elementor templates."
+msgstr ""
+
+#: inc/customizer.php:54
+msgid "Map Settings"
+msgstr ""
+
+#: inc/customizer.php:55
+msgid "You can customize the map settings."
+msgstr ""
+
+#: inc/customizer.php:59 inc/customizer.php:3803
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer.php:60 inc/customizer.php:3821 inc/customizer.php:3826
+#: inc/customizer.php:3831
+msgid "You can customize the footer settings."
+msgstr ""
+
+#: inc/customizer.php:64 inc/customizer.php:3629
+msgid "Partdo Widgets"
+msgstr ""
+
+#: inc/customizer.php:65 inc/customizer.php:3630
+msgid "You can customize the partdo widgets."
+msgstr ""
+
+#: inc/customizer.php:69
+msgid "GDPR Settings"
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "You can customize the GDPR settings."
+msgstr ""
+
+#: inc/customizer.php:74
+msgid "Newsletter Settings"
+msgstr ""
+
+#: inc/customizer.php:75
+msgid "You can customize the Newsletter Popup settings."
+msgstr ""
+
+#: inc/customizer.php:79
+msgid "Maintenance Settings"
+msgstr ""
+
+#: inc/customizer.php:80
+msgid "You can customize the Maintenance settings."
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "You can customize the header from this panel."
+msgstr ""
+
+#: inc/customizer.php:127 inc/customizer.php:211
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "You can customize the logo which is on header.."
+msgstr ""
+
+#: inc/customizer.php:132
+msgid "Header General"
+msgstr ""
+
+#: inc/customizer.php:133
+msgid "You can customize the header."
+msgstr ""
+
+#: inc/customizer.php:137
+msgid "Header Products Tab"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "You can customize the header products tab."
+msgstr ""
+
+#: inc/customizer.php:142
+msgid "Header Notification"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "You can customize the header notification."
+msgstr ""
+
+#: inc/customizer.php:147 inc/customizer.php:814
+msgid "Attribute Search"
+msgstr ""
+
+#: inc/customizer.php:148
+msgid "You can customize the header attribute search filter."
+msgstr ""
+
+#: inc/customizer.php:152
+msgid "Preloader"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "You can customize the loader."
+msgstr ""
+
+#: inc/customizer.php:157
+msgid "Header 1 Style"
+msgstr ""
+
+#: inc/customizer.php:158 inc/customizer.php:163 inc/customizer.php:168
+#: inc/customizer.php:173 inc/customizer.php:178 inc/customizer.php:183
+#: inc/customizer.php:188
+msgid "You can customize the style."
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "Header 2 Style"
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "Header 3 Style"
+msgstr ""
+
+#: inc/customizer.php:172
+msgid "Header 4 Style"
+msgstr ""
+
+#: inc/customizer.php:177
+msgid "Sidebar Menu Style"
+msgstr ""
+
+#: inc/customizer.php:182
+msgid "Mobile Menu Style"
+msgstr ""
+
+#: inc/customizer.php:187
+msgid "Mobile Bottom Menu Style"
+msgstr ""
+
+#: inc/customizer.php:212
+msgid "You can upload a logo."
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "Mobile Logo"
+msgstr ""
+
+#: inc/customizer.php:226
+msgid "You can upload a logo for the mobile."
+msgstr ""
+
+#: inc/customizer.php:239
+msgid "Set Logo Text"
+msgstr ""
+
+#: inc/customizer.php:240
+msgid "You can set logo as text."
+msgstr ""
+
+#: inc/customizer.php:251
+msgid "Logo Size"
+msgstr ""
+
+#: inc/customizer.php:252
+msgid "You can set size of the logo."
+msgstr ""
+
+#: inc/customizer.php:275
+msgid "Mobile Logo Size"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "You can set size of the mobil logo."
+msgstr ""
+
+#: inc/customizer.php:299
+msgid "Sidebar Logo Size"
+msgstr ""
+
+#: inc/customizer.php:300
+msgid "You can set size of the sidebar logo."
+msgstr ""
+
+#: inc/customizer.php:341
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/customizer.php:342
+msgid "You can choose status of the header."
+msgstr ""
+
+#: inc/customizer.php:353
+msgid "Mobile Sticky Header"
+msgstr ""
+
+#: inc/customizer.php:354
+msgid "You can choose status of the header on the mobile."
+msgstr ""
+
+#: inc/customizer.php:365
+msgid "Toggle Menu Button"
+msgstr ""
+
+#: inc/customizer.php:366
+msgid "You can choose status of the toggle menu button."
+msgstr ""
+
+#: inc/customizer.php:377
+msgid "Header Search"
+msgstr ""
+
+#: inc/customizer.php:378
+msgid "You can choose status of the search on the header."
+msgstr ""
+
+#: inc/customizer.php:389
+msgid "Ajax Search Form"
+msgstr ""
+
+#: inc/customizer.php:390
+msgid "Enable ajax search form for the header search."
+msgstr ""
+
+#: inc/customizer.php:408
+msgid "Account Icon / Login"
+msgstr ""
+
+#: inc/customizer.php:409
+msgid "Disable or Enable User Login/Signup on the header."
+msgstr ""
+
+#: inc/customizer.php:420 inc/customizer.php:2471
+#: woocommerce-filter/mobile-filter/mobile-filter.php:97
+msgid "Wishlist"
+msgstr ""
+
+#: inc/customizer.php:421
+msgid "Disable or Enable wishlist on the header."
+msgstr ""
+
+#: inc/customizer.php:432
+msgid "Header Cart"
+msgstr ""
+
+#: inc/customizer.php:433
+msgid "You can choose status of the mini cart on the header."
+msgstr ""
+
+#: inc/customizer.php:444
+msgid "Help Center"
+msgstr ""
+
+#: inc/customizer.php:445
+msgid "Disable or Enable Help Center on the header."
+msgstr ""
+
+#: inc/customizer.php:456
+msgid "Help Center URL"
+msgstr ""
+
+#: inc/customizer.php:457
+msgid "Set an url for the help center"
+msgstr ""
+
+#: inc/customizer.php:475
+msgid "Sidebar Menu"
+msgstr ""
+
+#: inc/customizer.php:476
+msgid "Disable or Enable Sidebar Menu"
+msgstr ""
+
+#: inc/customizer.php:487
+msgid "Disable Collapse on Frontpage"
+msgstr ""
+
+#: inc/customizer.php:488
+msgid "Disable or Enable Sidebar Collapse on Home Page."
+msgstr ""
+
+#: inc/customizer.php:506
+msgid "Top Left Menu"
+msgstr ""
+
+#: inc/customizer.php:507
+msgid "Disable or Enable the top left menu."
+msgstr ""
+
+#: inc/customizer.php:518
+msgid "Top Right Menu"
+msgstr ""
+
+#: inc/customizer.php:519
+msgid "Disable or Enable the top right menu."
+msgstr ""
+
+#: inc/customizer.php:530
+msgid "Products Tab"
+msgstr ""
+
+#: inc/customizer.php:531
+msgid "Disable or Enable Products Tab"
+msgstr ""
+
+#: inc/customizer.php:543
+msgid "You can add a text for the button."
+msgstr ""
+
+#: inc/customizer.php:561
+msgid "Tab Title"
+msgstr ""
+
+#: inc/customizer.php:562
+msgid "You can add a title for the tab."
+msgstr ""
+
+#: inc/customizer.php:580
+msgid "Tab Subtitle"
+msgstr ""
+
+#: inc/customizer.php:581
+msgid "You can add a subtitle for the tab."
+msgstr ""
+
+#: inc/customizer.php:653
+msgid "Posts Count"
+msgstr ""
+
+#: inc/customizer.php:672
+msgid "Tab Title Color"
+msgstr ""
+
+#: inc/customizer.php:673 inc/customizer.php:692 inc/customizer.php:926
+#: inc/customizer.php:945 inc/customizer.php:964 inc/customizer.php:1681
+#: inc/customizer.php:1693 inc/customizer.php:2745 inc/customizer.php:2769
+#: inc/customizer.php:2781 inc/customizer.php:2793 inc/customizer.php:3041
+#: inc/customizer.php:3053 inc/customizer.php:3077 inc/customizer.php:3101
+#: inc/customizer.php:3113 inc/customizer.php:3125 inc/customizer.php:3137
+#: inc/customizer.php:3197 inc/customizer.php:3209 inc/customizer.php:3221
+#: inc/customizer.php:3281 inc/customizer.php:3293 inc/customizer.php:3305
+#: inc/customizer.php:3317 inc/customizer.php:3329 inc/customizer.php:3757
+#: inc/customizer.php:3781 inc/customizer.php:3793 inc/customizer.php:3996
+#: inc/customizer.php:4015 inc/customizer.php:4034 inc/customizer.php:4053
+#: inc/customizer.php:4288 inc/customizer.php:4300 inc/customizer.php:4312
+#: inc/customizer.php:4324 inc/customizer.php:4336 inc/customizer.php:4374
+#: inc/customizer.php:4386 inc/customizer.php:4398 inc/customizer.php:4410
+#: inc/customizer.php:4422 inc/customizer.php:4793 inc/customizer.php:4812
+#: inc/customizer.php:4831
+msgid "You can set a color for color."
+msgstr ""
+
+#: inc/customizer.php:691
+msgid "Tab Subtitle Color"
+msgstr ""
+
+#: inc/customizer.php:709
+msgid "Top Notification 2"
+msgstr ""
+
+#: inc/customizer.php:710
+msgid "You can choose status of the notification 2 on the header."
+msgstr ""
+
+#: inc/customizer.php:721
+msgid "Top Notification 2 Content"
+msgstr ""
+
+#: inc/customizer.php:722
+msgid "You can add a text for the notification 2 content."
+msgstr ""
+
+#: inc/customizer.php:740
+msgid "Top Notification 1"
+msgstr ""
+
+#: inc/customizer.php:741
+msgid "You can choose status of the notification 1 on the header."
+msgstr ""
+
+#: inc/customizer.php:752
+msgid "Top Notification 1 Content"
+msgstr ""
+
+#: inc/customizer.php:753
+msgid "You can add a text for the notification content."
+msgstr ""
+
+#: inc/customizer.php:758
+msgid "Text"
+msgstr ""
+
+#: inc/customizer.php:776
+msgid "Top Notification Count Text"
+msgstr ""
+
+#: inc/customizer.php:777
+msgid "You can add a text for the notification count."
+msgstr ""
+
+#: inc/customizer.php:795
+msgid "Top Notification Count Date"
+msgstr ""
+
+#: inc/customizer.php:796
+msgid "You can add a date for the notification count."
+msgstr ""
+
+#: inc/customizer.php:815
+msgid "You can choose status of the attribute search on the header."
+msgstr ""
+
+#: inc/customizer.php:827 inc/customizer.php:2500 inc/customizer.php:2611
+#: inc/customizer.php:2701 inc/customizer.php:3694 inc/customizer.php:4117
+#: inc/customizer.php:4201 inc/customizer.php:4467 inc/customizer.php:4582
+#: inc/customizer.php:4770
+msgid "You can upload an image."
+msgstr ""
+
+#: inc/customizer.php:849
+msgid "You can add a title for the modal."
+msgstr ""
+
+#: inc/customizer.php:868
+msgid "You can add a subtitle for the modal."
+msgstr ""
+
+#: inc/customizer.php:886
+msgid "Attribute Name"
+msgstr ""
+
+#: inc/customizer.php:887
+msgid "You can separate the attributes with comma."
+msgstr ""
+
+#: inc/customizer.php:905
+msgid "Second Subtitle"
+msgstr ""
+
+#: inc/customizer.php:906
+msgid "You can add a subtitle."
+msgstr ""
+
+#: inc/customizer.php:963
+msgid "Second Subtitle Color"
+msgstr ""
+
+#: inc/customizer.php:981
+msgid "Enable Loader"
+msgstr ""
+
+#: inc/customizer.php:982
+msgid "Disable or Enable the loader."
+msgstr ""
+
+#: inc/customizer.php:996 inc/customizer.php:1300
+msgid "Header Top Border Color"
+msgstr ""
+
+#: inc/customizer.php:997 inc/customizer.php:1301
+msgid "You can set a color for  border color."
+msgstr ""
+
+#: inc/customizer.php:1008 inc/customizer.php:1312
+msgid "Header Top Background Color"
+msgstr ""
+
+#: inc/customizer.php:1009 inc/customizer.php:1045 inc/customizer.php:1167
+#: inc/customizer.php:1203 inc/customizer.php:1313 inc/customizer.php:1349
+#: inc/customizer.php:1399 inc/customizer.php:1435 inc/customizer.php:1571
+msgid "You can set a color for  background."
+msgstr ""
+
+#: inc/customizer.php:1020 inc/customizer.php:1324
+msgid "Header Top Font Color"
+msgstr ""
+
+#: inc/customizer.php:1021 inc/customizer.php:1069 inc/customizer.php:1081
+#: inc/customizer.php:1093 inc/customizer.php:1117 inc/customizer.php:1129
+#: inc/customizer.php:1141 inc/customizer.php:1155 inc/customizer.php:1179
+#: inc/customizer.php:1227 inc/customizer.php:1239 inc/customizer.php:1263
+#: inc/customizer.php:1275 inc/customizer.php:1287 inc/customizer.php:1325
+#: inc/customizer.php:1373 inc/customizer.php:1387 inc/customizer.php:1411
+#: inc/customizer.php:1459 inc/customizer.php:1485 inc/customizer.php:1521
+#: inc/customizer.php:1533 inc/customizer.php:1557 inc/customizer.php:1595
+#: inc/customizer.php:1607 inc/customizer.php:1619 inc/customizer.php:1631
+#: inc/customizer.php:1643 inc/customizer.php:1655 inc/customizer.php:1669
+msgid "You can set a color for  color."
+msgstr ""
+
+#: inc/customizer.php:1032 inc/customizer.php:1336
+msgid "Header Top Font Hover Color"
+msgstr ""
+
+#: inc/customizer.php:1033 inc/customizer.php:1191 inc/customizer.php:1337
+#: inc/customizer.php:1423
+msgid "You can set a color for hover color."
+msgstr ""
+
+#: inc/customizer.php:1044 inc/customizer.php:1202 inc/customizer.php:1348
+#: inc/customizer.php:1434
+msgid "Header Main Background Color"
+msgstr ""
+
+#: inc/customizer.php:1056 inc/customizer.php:1214 inc/customizer.php:1360
+#: inc/customizer.php:1446
+msgid "Header Main Border Color"
+msgstr ""
+
+#: inc/customizer.php:1057 inc/customizer.php:1215 inc/customizer.php:1361
+#: inc/customizer.php:1447 inc/customizer.php:1583
+msgid "You can set a color for  border."
+msgstr ""
+
+#: inc/customizer.php:1068
+msgid "Header Main Help Center Font Color"
+msgstr ""
+
+#: inc/customizer.php:1080 inc/customizer.php:1226
+msgid "Header Main Font Color"
+msgstr ""
+
+#: inc/customizer.php:1092 inc/customizer.php:1238
+msgid "Header Main Font Hover Color"
+msgstr ""
+
+#: inc/customizer.php:1104 inc/customizer.php:1250
+msgid "Header Main Submenu Background Color"
+msgstr ""
+
+#: inc/customizer.php:1105 inc/customizer.php:1251 inc/customizer.php:1473
+#: inc/customizer.php:1497 inc/customizer.php:1545
+msgid "You can set a color for background color."
+msgstr ""
+
+#: inc/customizer.php:1116 inc/customizer.php:1262
+msgid "Header Main Submenu Font Color"
+msgstr ""
+
+#: inc/customizer.php:1128 inc/customizer.php:1274
+msgid "Header Main Submenu Font Hover Color"
+msgstr ""
+
+#: inc/customizer.php:1140 inc/customizer.php:1286 inc/customizer.php:1372
+#: inc/customizer.php:1458
+msgid "Header Main Icon Color"
+msgstr ""
+
+#: inc/customizer.php:1154 inc/customizer.php:1386
+msgid "Header Top 1 Notification Color"
+msgstr ""
+
+#: inc/customizer.php:1166 inc/customizer.php:1398
+msgid "Header Top 2 Background Color"
+msgstr ""
+
+#: inc/customizer.php:1178 inc/customizer.php:1410
+msgid "Header Top 2 Font Color"
+msgstr ""
+
+#: inc/customizer.php:1190 inc/customizer.php:1422
+msgid "Header Top 2 Font Hover Color"
+msgstr ""
+
+#: inc/customizer.php:1472
+msgid "Sidebar Title Background Color"
+msgstr ""
+
+#: inc/customizer.php:1484
+msgid "Sidebar Title Font Color"
+msgstr ""
+
+#: inc/customizer.php:1496
+msgid "Sidebar Menu Background Color"
+msgstr ""
+
+#: inc/customizer.php:1508
+msgid "Sidebar Menu Border Color"
+msgstr ""
+
+#: inc/customizer.php:1509
+msgid "You can set a color for border color."
+msgstr ""
+
+#: inc/customizer.php:1520
+msgid "Sidebar Menu Font Color"
+msgstr ""
+
+#: inc/customizer.php:1532
+msgid "Sidebar Menu Font Hover Color"
+msgstr ""
+
+#: inc/customizer.php:1544
+msgid "Sidebar Menu Font Hover Background Color"
+msgstr ""
+
+#: inc/customizer.php:1556
+msgid "Sidebar Menu Subtitle Color"
+msgstr ""
+
+#: inc/customizer.php:1570
+msgid "Mobile Menu Background Color"
+msgstr ""
+
+#: inc/customizer.php:1582
+msgid "Mobile Menu Border Color"
+msgstr ""
+
+#: inc/customizer.php:1594
+msgid "Mobile Menu Title Color"
+msgstr ""
+
+#: inc/customizer.php:1606
+msgid "Mobile Menu Subtitle Color"
+msgstr ""
+
+#: inc/customizer.php:1618
+msgid "Contact Details Icon Color"
+msgstr ""
+
+#: inc/customizer.php:1630
+msgid "Contact Details Title Color"
+msgstr ""
+
+#: inc/customizer.php:1642
+msgid "Contact Details Subtitle Color"
+msgstr ""
+
+#: inc/customizer.php:1654
+msgid "Mobile Menu Copyright Font Color"
+msgstr ""
+
+#: inc/customizer.php:1668
+msgid "Mobile Bottom Menu Background Color"
+msgstr ""
+
+#: inc/customizer.php:1680
+msgid "Mobile Bottom Menu Icon Color"
+msgstr ""
+
+#: inc/customizer.php:1692
+msgid "Mobile Bottom Menu Font Color"
+msgstr ""
+
+#: inc/customizer.php:1704
+msgid "You can customize the shop from this panel."
+msgstr ""
+
+#: inc/customizer.php:1710
+msgid "General"
+msgstr ""
+
+#: inc/customizer.php:1711
+msgid "You can customize shop settings."
+msgstr ""
+
+#: inc/customizer.php:1715
+msgid "Product Detail"
+msgstr ""
+
+#: inc/customizer.php:1716
+msgid "You can customize the product single settings."
+msgstr ""
+
+#: inc/customizer.php:1721
+msgid "You can customize the banner."
+msgstr ""
+
+#: inc/customizer.php:1725
+msgid "My Account"
+msgstr ""
+
+#: inc/customizer.php:1726
+msgid "You can customize the my account page."
+msgstr ""
+
+#: inc/customizer.php:1730
+msgid "Free Shipping Bar "
+msgstr ""
+
+#: inc/customizer.php:1731
+msgid "You can customize the free shipping bar settings."
+msgstr ""
+
+#: inc/customizer.php:1735
+msgid "Product Detail Style"
+msgstr ""
+
+#: inc/customizer.php:1736
+msgid "You can customize the product single style settings."
+msgstr ""
+
+#: inc/customizer.php:1760 inc/customizer.php:2803 inc/customizer.php:3342
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer.php:1761
+msgid "You can choose a layout for the shop."
+msgstr ""
+
+#: inc/customizer.php:1765 inc/customizer.php:3347
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:1766 inc/customizer.php:2231 inc/customizer.php:3348
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer.php:1767 inc/customizer.php:3349
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:1777
+msgid "Shop Page Width"
+msgstr ""
+
+#: inc/customizer.php:1778
+msgid "You can choose a layout for the shop page."
+msgstr ""
+
+#: inc/customizer.php:1782
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer.php:1783
+msgid "Wide"
+msgstr ""
+
+#: inc/customizer.php:1792
+msgid "Shop Product Box Type"
+msgstr ""
+
+#: inc/customizer.php:1808
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/customizer.php:1813 inc/customizer.php:2019 inc/customizer.php:2808
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:1814 woocommerce-filter/load-more/load-more.php:11
+msgid "Load More"
+msgstr ""
+
+#: inc/customizer.php:1815
+msgid "Infinite"
+msgstr ""
+
+#: inc/customizer.php:1825
+msgid "Product Gallery"
+msgstr ""
+
+#: inc/customizer.php:1826
+msgid "Disable or Enable gallery on the product box."
+msgstr ""
+
+#: inc/customizer.php:1837
+msgid "Ajax on Shop Page"
+msgstr ""
+
+#: inc/customizer.php:1838
+msgid "Disable or Enable Ajax for the shop page."
+msgstr ""
+
+#: inc/customizer.php:1849
+msgid "Grid List View"
+msgstr ""
+
+#: inc/customizer.php:1850
+msgid "Disable or Enable grid list view on shop page."
+msgstr ""
+
+#: inc/customizer.php:1861 inc/customizer.php:1885
+msgid "Attribute Swatches"
+msgstr ""
+
+#: inc/customizer.php:1862 inc/customizer.php:1886
+msgid "Disable or Enable the attribute types (Color - Button - Images)."
+msgstr ""
+
+#: inc/customizer.php:1873
+msgid "Perpage View"
+msgstr ""
+
+#: inc/customizer.php:1874
+msgid "Disable or Enable perpage view on shop page."
+msgstr ""
+
+#: inc/customizer.php:1897
+msgid "Quick View Button"
+msgstr ""
+
+#: inc/customizer.php:1898
+msgid "You can choose status of the quick view button."
+msgstr ""
+
+#: inc/customizer.php:1909
+msgid "Custom Wishlist Button"
+msgstr ""
+
+#: inc/customizer.php:1910
+msgid "You can choose status of the wishlist button."
+msgstr ""
+
+#: inc/customizer.php:1921
+msgid "Compare"
+msgstr ""
+
+#: inc/customizer.php:1922
+msgid "You can choose status of the compare button."
+msgstr ""
+
+#: inc/customizer.php:1933
+msgid "Added to Cart Ajax Notice"
+msgstr ""
+
+#: inc/customizer.php:1934
+msgid "You can choose status of the ajax notice feature."
+msgstr ""
+
+#: inc/customizer.php:1945
+msgid "Product Badge Tab"
+msgstr ""
+
+#: inc/customizer.php:1946
+msgid "You can choose status of the product badge tab."
+msgstr ""
+
+#: inc/customizer.php:1957
+msgid "Remove All Button in cart page"
+msgstr ""
+
+#: inc/customizer.php:1958
+msgid "You can choose status of the remove all button."
+msgstr ""
+
+#: inc/customizer.php:1969
+msgid "Mobile Bottom Menu"
+msgstr ""
+
+#: inc/customizer.php:1970
+msgid "Disable or Enable the bottom menu on mobile."
+msgstr ""
+
+#: inc/customizer.php:1981 inc/customizer.php:2002
+msgid "Mobile Bottom Menu Edit"
+msgstr ""
+
+#: inc/customizer.php:1982 inc/customizer.php:2003
+msgid "Edit the mobile bottom menu."
+msgstr ""
+
+#: inc/customizer.php:2016
+msgid "You can select a type"
+msgstr ""
+
+#: inc/customizer.php:2021 woocommerce-filter/grid-list/grid-list-view.php:16
+#: woocommerce-filter/mobile-filter/mobile-filter.php:81
+msgid "Filter"
+msgstr ""
+
+#: inc/customizer.php:2022
+msgid "category"
+msgstr ""
+
+#: inc/customizer.php:2029
+msgid "You can set an icon. for example; \"store\""
+msgstr ""
+
+#: inc/customizer.php:2033
+msgid " Text"
+msgstr ""
+
+#: inc/customizer.php:2034 inc/customizer.php:4077 inc/customizer.php:4244
+#: inc/customizer.php:4249
+msgid "You can enter a text."
+msgstr ""
+
+#: inc/customizer.php:2038 inc/customizer.php:3678 inc/customizer.php:4206
+msgid "URL"
+msgstr ""
+
+#: inc/customizer.php:2039 inc/customizer.php:3679
+msgid "You can set url for the item."
+msgstr ""
+
+#: inc/customizer.php:2051
+msgid "Stock Quantity"
+msgstr ""
+
+#: inc/customizer.php:2052
+msgid "Show stock quantity on the label."
+msgstr ""
+
+#: inc/customizer.php:2063
+msgid "Min/Max Quantity"
+msgstr ""
+
+#: inc/customizer.php:2064
+msgid "Enable the additional quantity setting fields in product detail page."
+msgstr ""
+
+#: inc/customizer.php:2075
+msgid "Category Desc After Content"
+msgstr ""
+
+#: inc/customizer.php:2076
+msgid "Add the category description after the products."
+msgstr ""
+
+#: inc/customizer.php:2087
+msgid "Catalog Mode"
+msgstr ""
+
+#: inc/customizer.php:2088
+msgid "Disable Add to Cart button on the shop page."
+msgstr ""
+
+#: inc/customizer.php:2099
+#: woocommerce-filter/recently-viewed/recently-viewed.php:67
+msgid "Recently Viewed Products"
+msgstr ""
+
+#: inc/customizer.php:2100
+msgid "Disable or Enable Recently Viewed Products."
+msgstr ""
+
+#: inc/customizer.php:2111
+msgid "Recently Viewed Products Column"
+msgstr ""
+
+#: inc/customizer.php:2116
+msgid "5"
+msgstr ""
+
+#: inc/customizer.php:2117
+msgid "4"
+msgstr ""
+
+#: inc/customizer.php:2118
+msgid "3"
+msgstr ""
+
+#: inc/customizer.php:2119
+msgid "2"
+msgstr ""
+
+#: inc/customizer.php:2136
+msgid "Min Order Amount"
+msgstr ""
+
+#: inc/customizer.php:2137
+msgid "Enable Min Order Amount."
+msgstr ""
+
+#: inc/customizer.php:2148
+msgid "Min Order Value"
+msgstr ""
+
+#: inc/customizer.php:2149
+msgid "Set amount to specify a minimum order value."
+msgstr ""
+
+#: inc/customizer.php:2167
+msgid "Product Image Size"
+msgstr ""
+
+#: inc/customizer.php:2168
+msgid "You can set size of the product image for the shop page."
+msgstr ""
+
+#: inc/customizer.php:2182
+msgid "Image Column"
+msgstr ""
+
+#: inc/customizer.php:2199
+msgid "Gallery Type (Product Detail)"
+msgstr ""
+
+#: inc/customizer.php:2204
+msgid "Horizontal"
+msgstr ""
+
+#: inc/customizer.php:2205
+msgid "Vertical"
+msgstr ""
+
+#: inc/customizer.php:2215
+msgid "Thumbnail Arrow"
+msgstr ""
+
+#: inc/customizer.php:2216
+msgid "You can choose status of the thumbnail arrow."
+msgstr ""
+
+#: inc/customizer.php:2232
+msgid "Stretch the single product page content."
+msgstr ""
+
+#: inc/customizer.php:2243
+msgid "Image Zoom"
+msgstr ""
+
+#: inc/customizer.php:2244
+msgid "You can choose status of the zoom feature."
+msgstr ""
+
+#: inc/customizer.php:2255
+msgid "Product360 View"
+msgstr ""
+
+#: inc/customizer.php:2256
+msgid "Disable or Enable Product 360 View."
+msgstr ""
+
+#: inc/customizer.php:2267
+msgid "Ajax Add to Cart"
+msgstr ""
+
+#: inc/customizer.php:2268
+msgid "Disable or Enable ajax add to cart button."
+msgstr ""
+
+#: inc/customizer.php:2279
+msgid "Sticky Add to Cart"
+msgstr ""
+
+#: inc/customizer.php:2280
+msgid "Disable or Enable sticky cart button."
+msgstr ""
+
+#: inc/customizer.php:2291
+msgid "Sticky Titles"
+msgstr ""
+
+#: inc/customizer.php:2292
+msgid "Disable or Enable the sticky titles for desktop."
+msgstr ""
+
+#: inc/customizer.php:2303
+msgid "Mobile Sticky Add to Cart"
+msgstr ""
+
+#: inc/customizer.php:2304
+msgid "Disable or Enable sticky cart button on mobile."
+msgstr ""
+
+#: inc/customizer.php:2315
+msgid "Buy Now Button"
+msgstr ""
+
+#: inc/customizer.php:2316
+msgid "Disable or Enable Buy Now button."
+msgstr ""
+
+#: inc/customizer.php:2327
+msgid "Products Navigation"
+msgstr ""
+
+#: inc/customizer.php:2338
+msgid "Related Products with Tags"
+msgstr ""
+
+#: inc/customizer.php:2339
+msgid "Display the related products by tags."
+msgstr ""
+
+#: inc/customizer.php:2350 woocommerce-filter/woocommerce-filter.php:420
+msgid "Order on WhatsApp"
+msgstr ""
+
+#: inc/customizer.php:2351
+msgid "Enable the button on the product detail page."
+msgstr ""
+
+#: inc/customizer.php:2362
+msgid "WhatsApp Number"
+msgstr ""
+
+#: inc/customizer.php:2363
+msgid "You can add a phone number for order on WhatsApp."
+msgstr ""
+
+#: inc/customizer.php:2381
+msgid "Move Review Tab"
+msgstr ""
+
+#: inc/customizer.php:2382
+msgid "Move the review tab out of tabs"
+msgstr ""
+
+#: inc/customizer.php:2393
+msgid "Social Share (Product Detail)"
+msgstr ""
+
+#: inc/customizer.php:2394
+msgid "Disable or Enable social share buttons."
+msgstr ""
+
+#: inc/customizer.php:2409
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php:2410
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer.php:2411
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer.php:2412
+msgid "Linkedin"
+msgstr ""
+
+#: inc/customizer.php:2413
+msgid "Reddit"
+msgstr ""
+
+#: inc/customizer.php:2414
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/customizer.php:2431
+msgid "Related Post Column"
+msgstr ""
+
+#: inc/customizer.php:2432
+msgid "You can control related post column with this option."
+msgstr ""
+
+#: inc/customizer.php:2449
+msgid "Re-order Product Summary"
+msgstr ""
+
+#: inc/customizer.php:2450
+msgid ""
+"Please save the changes and refresh the page once. Live preview is not "
+"available for the option."
+msgstr ""
+
+#: inc/customizer.php:2467
+msgid "Rating"
+msgstr ""
+
+#: inc/customizer.php:2468
+msgid "Price"
+msgstr ""
+
+#: inc/customizer.php:2469
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer.php:2470
+msgid "Add to Cart"
+msgstr ""
+
+#: inc/customizer.php:2472 inc/customizer.php:2487
+msgid "Product Assistant"
+msgstr ""
+
+#: inc/customizer.php:2473
+msgid "Product Iconboxes"
+msgstr ""
+
+#: inc/customizer.php:2474
+msgid "Meta"
+msgstr ""
+
+#: inc/customizer.php:2475
+msgid "Share"
+msgstr ""
+
+#: inc/customizer.php:2476
+msgid "Progress Bar"
+msgstr ""
+
+#: inc/customizer.php:2477
+msgid "Time Countdown"
+msgstr ""
+
+#: inc/customizer.php:2488
+msgid "Disable or Enable product assistant buttons."
+msgstr ""
+
+#: inc/customizer.php:2499
+msgid "Product Assistant Image"
+msgstr ""
+
+#: inc/customizer.php:2521
+msgid "Product Assistant Title"
+msgstr ""
+
+#: inc/customizer.php:2522 inc/customizer.php:2625 inc/customizer.php:2707
+#: inc/customizer.php:4183 inc/customizer.php:4219
+msgid "You can set a title."
+msgstr ""
+
+#: inc/customizer.php:2540
+msgid "Product Assistant Subtitle"
+msgstr ""
+
+#: inc/customizer.php:2541 inc/customizer.php:2637 inc/customizer.php:2713
+msgid "You can set a subtitle."
+msgstr ""
+
+#: inc/customizer.php:2559
+msgid "Iconboxes"
+msgstr ""
+
+#: inc/customizer.php:2560
+msgid "Disable or Enable the featured list."
+msgstr ""
+
+#: inc/customizer.php:2571
+msgid "Iconboxes List"
+msgstr ""
+
+#: inc/customizer.php:2572
+msgid "You can create the iconboxes list."
+msgstr ""
+
+#: inc/customizer.php:2589
+msgid "Icon example; klbth-icon-ecommerce-dollar-symbol."
+msgstr ""
+
+#: inc/customizer.php:2594
+msgid "You can enter a title."
+msgstr ""
+
+#: inc/customizer.php:2599
+msgid "You can enter a subtitle."
+msgstr ""
+
+#: inc/customizer.php:2624 inc/customizer.php:2706
+msgid "Set Title"
+msgstr ""
+
+#: inc/customizer.php:2636 inc/customizer.php:2712
+msgid "Set Subtitle"
+msgstr ""
+
+#: inc/customizer.php:2648 inc/customizer.php:2718
+msgid "Set Description"
+msgstr ""
+
+#: inc/customizer.php:2649 inc/customizer.php:2719
+msgid "You can set a description."
+msgstr ""
+
+#: inc/customizer.php:2660 inc/customizer.php:2724
+msgid "Set Button Text"
+msgstr ""
+
+#: inc/customizer.php:2661 inc/customizer.php:2725
+msgid "You can set a button text."
+msgstr ""
+
+#: inc/customizer.php:2672 inc/customizer.php:2730
+msgid "Set URL"
+msgstr ""
+
+#: inc/customizer.php:2673 inc/customizer.php:2731 inc/customizer.php:3732
+msgid "Set an url for the button"
+msgstr ""
+
+#: inc/customizer.php:2685
+msgid "Banner For Categories"
+msgstr ""
+
+#: inc/customizer.php:2686
+msgid "You can set banner for each category."
+msgstr ""
+
+#: inc/customizer.php:2692 inc/customizer.php:3560
+msgid "Select Category"
+msgstr ""
+
+#: inc/customizer.php:2693 inc/customizer.php:3561
+msgid "Set a category"
+msgstr ""
+
+#: inc/customizer.php:2756 inc/customizer.php:3768
+msgid "Subtitle Background Color"
+msgstr ""
+
+#: inc/customizer.php:2757 inc/customizer.php:3029 inc/customizer.php:3065
+#: inc/customizer.php:3089 inc/customizer.php:3149 inc/customizer.php:3161
+#: inc/customizer.php:3233 inc/customizer.php:3245 inc/customizer.php:3769
+#: inc/customizer.php:3965 inc/customizer.php:4264 inc/customizer.php:4350
+msgid "You can set a color for background."
+msgstr ""
+
+#: inc/customizer.php:2804
+msgid "You can choose a layout for the login form."
+msgstr ""
+
+#: inc/customizer.php:2809
+msgid "Login Tab"
+msgstr ""
+
+#: inc/customizer.php:2819
+msgid "Register - First Name"
+msgstr ""
+
+#: inc/customizer.php:2823 inc/customizer.php:2838 inc/customizer.php:2853
+#: inc/customizer.php:2868
+msgid "Hidden"
+msgstr ""
+
+#: inc/customizer.php:2824 inc/customizer.php:2839 inc/customizer.php:2854
+#: inc/customizer.php:2869
+msgid "Visible"
+msgstr ""
+
+#: inc/customizer.php:2834
+msgid "Register - Last Name"
+msgstr ""
+
+#: inc/customizer.php:2849
+msgid "Register - Billing Company"
+msgstr ""
+
+#: inc/customizer.php:2864
+msgid "Register - Billing Phone"
+msgstr ""
+
+#: inc/customizer.php:2879
+msgid "Activate Ajax for Login Form"
+msgstr ""
+
+#: inc/customizer.php:2890
+msgid "Redirect URL After Login"
+msgstr ""
+
+#: inc/customizer.php:2903
+msgid "Free shipping bar"
+msgstr ""
+
+#: inc/customizer.php:2914
+msgid "Goal Amount"
+msgstr ""
+
+#: inc/customizer.php:2915
+#, no-php-format
+msgid ""
+"Amount to reach 100% defined in your currency absolute value. For example: "
+"300"
+msgstr ""
+
+#: inc/customizer.php:2933
+msgid "Cart page"
+msgstr ""
+
+#: inc/customizer.php:2951
+msgid "Mini cart"
+msgstr ""
+
+#: inc/customizer.php:2969
+msgid "Checkout page"
+msgstr ""
+
+#: inc/customizer.php:2987
+msgid "Initial Message"
+msgstr ""
+
+#: inc/customizer.php:2988
+msgid ""
+"Message to show before reaching the goal. Use shortcode [remainder] to "
+"display the amount left to reach the minimum."
+msgstr ""
+
+#: inc/customizer.php:3006
+msgid "Success message"
+msgstr ""
+
+#: inc/customizer.php:3007
+msgid "Message to show after reaching 100%."
+msgstr ""
+
+#: inc/customizer.php:3028
+msgid "Shop Single Background Color"
+msgstr ""
+
+#: inc/customizer.php:3040
+msgid "Shop Single Image Border Color"
+msgstr ""
+
+#: inc/customizer.php:3052
+msgid "Shop Single Title Color"
+msgstr ""
+
+#: inc/customizer.php:3064
+msgid "Shop Single Stock Background Color"
+msgstr ""
+
+#: inc/customizer.php:3076
+msgid "Shop Single Stock Text Color"
+msgstr ""
+
+#: inc/customizer.php:3088
+msgid "Shop Single Out Of Stock Background Color"
+msgstr ""
+
+#: inc/customizer.php:3100
+msgid "Shop Single Out Of Stock Text Color"
+msgstr ""
+
+#: inc/customizer.php:3112
+msgid "Shop Single Regular Price Color"
+msgstr ""
+
+#: inc/customizer.php:3124
+msgid "Shop Single Sale Price Color"
+msgstr ""
+
+#: inc/customizer.php:3136
+msgid "Shop Single Description Color"
+msgstr ""
+
+#: inc/customizer.php:3148
+msgid "Shop Single Button Background Color"
+msgstr ""
+
+#: inc/customizer.php:3160
+msgid "Shop Single Button Background Hover Color"
+msgstr ""
+
+#: inc/customizer.php:3172
+msgid "Shop Single Button border Color"
+msgstr ""
+
+#: inc/customizer.php:3173 inc/customizer.php:3185 inc/customizer.php:3257
+#: inc/customizer.php:3269 inc/customizer.php:3984 inc/customizer.php:4276
+#: inc/customizer.php:4362
+msgid "You can set a color for border."
+msgstr ""
+
+#: inc/customizer.php:3184
+msgid "Shop Single Button border Hover Color"
+msgstr ""
+
+#: inc/customizer.php:3196
+msgid "Shop Single Button Text Color"
+msgstr ""
+
+#: inc/customizer.php:3208
+msgid "Shop Single Button Text Hover Color"
+msgstr ""
+
+#: inc/customizer.php:3220
+msgid "Shop Single Wishlist Title Color"
+msgstr ""
+
+#: inc/customizer.php:3232
+msgid "Shop Single Wishlist Icon Background Color"
+msgstr ""
+
+#: inc/customizer.php:3244
+msgid "Shop Single Wishlist Icon Background Hover Color"
+msgstr ""
+
+#: inc/customizer.php:3256
+msgid "Shop Single Wishlist Icon Border Color"
+msgstr ""
+
+#: inc/customizer.php:3268
+msgid "Shop Single Wishlist Icon Border Hover Color"
+msgstr ""
+
+#: inc/customizer.php:3280
+msgid "Shop Single Wishlist Icon Color"
+msgstr ""
+
+#: inc/customizer.php:3292
+msgid "Shop Single Wishlist Icon Hover Color"
+msgstr ""
+
+#: inc/customizer.php:3304
+msgid "Shop Single Meta Title Color"
+msgstr ""
+
+#: inc/customizer.php:3316
+msgid "Shop Single Meta Subtitle Color"
+msgstr ""
+
+#: inc/customizer.php:3328
+msgid "Shop Single Module Title Color"
+msgstr ""
+
+#: inc/customizer.php:3343
+msgid "You can choose a layout."
+msgstr ""
+
+#: inc/customizer.php:3372
+msgid "Main Dark Color"
+msgstr ""
+
+#: inc/customizer.php:3373
+msgid "You can customize the color dark."
+msgstr ""
+
+#: inc/customizer.php:3384
+msgid "Color Danger"
+msgstr ""
+
+#: inc/customizer.php:3385
+msgid "You can customize the color danger."
+msgstr ""
+
+#: inc/customizer.php:3396
+msgid "Color Danger Dark"
+msgstr ""
+
+#: inc/customizer.php:3397
+msgid "You can customize the color danger dark."
+msgstr ""
+
+#: inc/customizer.php:3408
+msgid "Color Danger Light"
+msgstr ""
+
+#: inc/customizer.php:3409
+msgid "You can customize the color danger light."
+msgstr ""
+
+#: inc/customizer.php:3420
+msgid "Color Success"
+msgstr ""
+
+#: inc/customizer.php:3421
+msgid "You can customize the color success."
+msgstr ""
+
+#: inc/customizer.php:3432
+msgid "Color Success Dark"
+msgstr ""
+
+#: inc/customizer.php:3433
+msgid "You can customize the color success dark."
+msgstr ""
+
+#: inc/customizer.php:3444
+msgid "Color Success Light"
+msgstr ""
+
+#: inc/customizer.php:3445
+msgid "You can customize the color success light."
+msgstr ""
+
+#: inc/customizer.php:3456
+msgid "Color Warning"
+msgstr ""
+
+#: inc/customizer.php:3457
+msgid "You can customize the color warning."
+msgstr ""
+
+#: inc/customizer.php:3468 inc/customizer.php:3569
+msgid "Before Shop Elementor Template"
+msgstr ""
+
+#: inc/customizer.php:3471 inc/customizer.php:3485 inc/customizer.php:3513
+msgid "Select a template from elementor templates "
+msgstr ""
+
+#: inc/customizer.php:3482 inc/customizer.php:3577
+msgid "After Shop Elementor Template"
+msgstr ""
+
+#: inc/customizer.php:3496 inc/customizer.php:3583
+msgid "Before Header Elementor Template"
+msgstr ""
+
+#: inc/customizer.php:3499 inc/customizer.php:3527 inc/customizer.php:3541
+#: inc/customizer.php:3572
+msgid ""
+"Select a template from elementor templates, If you want to show any content "
+"before products "
+msgstr ""
+
+#: inc/customizer.php:3510 inc/customizer.php:3589
+msgid "After Header Elementor Template"
+msgstr ""
+
+#: inc/customizer.php:3524 inc/customizer.php:3595
+msgid "Before Footer Elementor Template"
+msgstr ""
+
+#: inc/customizer.php:3538
+msgid "After Footer Elementor Templates"
+msgstr ""
+
+#: inc/customizer.php:3553
+msgid "Template For Categories"
+msgstr ""
+
+#: inc/customizer.php:3554
+msgid "You can set template for each category."
+msgstr ""
+
+#: inc/customizer.php:3601
+msgid "After Footer Elementor Template"
+msgstr ""
+
+#: inc/customizer.php:3617
+msgid "Google Map Api key"
+msgstr ""
+
+#: inc/customizer.php:3618
+msgid "Add your google map api key"
+msgstr ""
+
+#: inc/customizer.php:3637
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer.php:3638 inc/customizer.php:3643
+msgid "You can customize the social media widget."
+msgstr ""
+
+#: inc/customizer.php:3666
+msgid "Social Media Widget"
+msgstr ""
+
+#: inc/customizer.php:3667
+msgid "You can set social icons."
+msgstr ""
+
+#: inc/customizer.php:3673
+msgid "You can set an icon. for example; \"facebook\""
+msgstr ""
+
+#: inc/customizer.php:3708 inc/customizer.php:3720 inc/customizer.php:3744
+msgid "You can set text for widget banner section."
+msgstr ""
+
+#: inc/customizer.php:3731
+msgid "Button URL"
+msgstr ""
+
+#: inc/customizer.php:3804
+msgid "You can customize the footer from this panel."
+msgstr ""
+
+#: inc/customizer.php:3810
+msgid "Subscribe"
+msgstr ""
+
+#: inc/customizer.php:3811
+msgid "You can customize the subscribe area."
+msgstr ""
+
+#: inc/customizer.php:3815 inc/customizer.php:4070
+msgid "Footer Extra"
+msgstr ""
+
+#: inc/customizer.php:3816
+msgid "You can customize the footer extra section."
+msgstr ""
+
+#: inc/customizer.php:3820
+msgid "Footer General"
+msgstr ""
+
+#: inc/customizer.php:3825
+msgid "Footer 1 Style"
+msgstr ""
+
+#: inc/customizer.php:3830
+msgid "Footer 2 Style"
+msgstr ""
+
+#: inc/customizer.php:3856
+msgid "Subcribe"
+msgstr ""
+
+#: inc/customizer.php:3857
+msgid "Disable or Enable subscribe section."
+msgstr ""
+
+#: inc/customizer.php:3868
+msgid "Subscribe Form Id."
+msgstr ""
+
+#: inc/customizer.php:3869 inc/customizer.php:4648 inc/customizer.php:4751
+msgid "You can find the form id in Dashboard > Mailchimp For Wp > Form."
+msgstr ""
+
+#: inc/customizer.php:3887
+msgid "Subscribe Icon"
+msgstr ""
+
+#: inc/customizer.php:3888
+msgid "You can upload an icon. for example: klbth-icon-message-sending"
+msgstr ""
+
+#: inc/customizer.php:3907 inc/customizer.php:3926 inc/customizer.php:3945
+msgid "You can set text for subscribe section."
+msgstr ""
+
+#: inc/customizer.php:3964
+msgid "Subscribe Background Color"
+msgstr ""
+
+#: inc/customizer.php:3983
+msgid "Subscribe Border Color"
+msgstr ""
+
+#: inc/customizer.php:3995
+msgid "Subscribe Icon Color"
+msgstr ""
+
+#: inc/customizer.php:4014
+msgid "Subscribe Title Color"
+msgstr ""
+
+#: inc/customizer.php:4033
+msgid "Subscribe Subtitle Color"
+msgstr ""
+
+#: inc/customizer.php:4052
+msgid "Subscribe Description Color"
+msgstr ""
+
+#: inc/customizer.php:4071
+msgid "You can create footer extra."
+msgstr ""
+
+#: inc/customizer.php:4076
+msgid "Extra Box Content"
+msgstr ""
+
+#: inc/customizer.php:4104
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer.php:4105
+msgid "You can set a copyright text for the footer."
+msgstr ""
+
+#: inc/customizer.php:4130
+msgid "Set Payment URL"
+msgstr ""
+
+#: inc/customizer.php:4131
+msgid "Set an url for the payment image"
+msgstr ""
+
+#: inc/customizer.php:4142
+msgid "Footer Column"
+msgstr ""
+
+#: inc/customizer.php:4143
+msgid "You can set footer column."
+msgstr ""
+
+#: inc/customizer.php:4159
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/customizer.php:4160
+msgid "You can choose status of the footer menu on the footer."
+msgstr ""
+
+#: inc/customizer.php:4171
+msgid "Back To Top Button"
+msgstr ""
+
+#: inc/customizer.php:4182
+msgid "APP Title"
+msgstr ""
+
+#: inc/customizer.php:4194
+msgid "APP IMAGE"
+msgstr ""
+
+#: inc/customizer.php:4195
+msgid "You can set the app images."
+msgstr ""
+
+#: inc/customizer.php:4207
+msgid "set an url for the image."
+msgstr ""
+
+#: inc/customizer.php:4218
+msgid "Contact Title"
+msgstr ""
+
+#: inc/customizer.php:4231
+msgid "Contact Box"
+msgstr ""
+
+#: inc/customizer.php:4232
+msgid "You can set the contact box."
+msgstr ""
+
+#: inc/customizer.php:4239
+msgid "You can set an icon. for example; \"klbth-icon-phone-squared\""
+msgstr ""
+
+#: inc/customizer.php:4243
+msgid " Title"
+msgstr ""
+
+#: inc/customizer.php:4263 inc/customizer.php:4349
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer.php:4275 inc/customizer.php:4361
+msgid "Footer Border Color"
+msgstr ""
+
+#: inc/customizer.php:4287 inc/customizer.php:4373
+msgid "Footer Title Color"
+msgstr ""
+
+#: inc/customizer.php:4299 inc/customizer.php:4385
+msgid "Footer Subtitle Color"
+msgstr ""
+
+#: inc/customizer.php:4311 inc/customizer.php:4397
+msgid "Footer Extra Title Color"
+msgstr ""
+
+#: inc/customizer.php:4323 inc/customizer.php:4409
+msgid "Footer Menu Color"
+msgstr ""
+
+#: inc/customizer.php:4335 inc/customizer.php:4421
+msgid "Footer Copyright Color"
+msgstr ""
+
+#: inc/customizer.php:4432
+msgid "Enable GDPR"
+msgstr ""
+
+#: inc/customizer.php:4433
+msgid "You can choose status of GDPR."
+msgstr ""
+
+#: inc/customizer.php:4444
+msgid "GDPR Type"
+msgstr ""
+
+#: inc/customizer.php:4492
+msgid "GDPR Text"
+msgstr ""
+
+#: inc/customizer.php:4510
+msgid "GDPR Expire Date"
+msgstr ""
+
+#: inc/customizer.php:4528
+msgid "GDPR Button Text"
+msgstr ""
+
+#: inc/customizer.php:4546
+msgid "Enable Newsletter"
+msgstr ""
+
+#: inc/customizer.php:4547
+msgid "You can choose status of Newsletter Popup."
+msgstr ""
+
+#: inc/customizer.php:4558
+msgid "Newsletter Type"
+msgstr ""
+
+#: inc/customizer.php:4611
+msgid "Newsletter Title"
+msgstr ""
+
+#: inc/customizer.php:4629
+msgid "Newsletter Subtitle"
+msgstr ""
+
+#: inc/customizer.php:4647
+msgid "Newsletter Form Id."
+msgstr ""
+
+#: inc/customizer.php:4666
+msgid "Newsletter Expire Date"
+msgstr ""
+
+#: inc/customizer.php:4684
+msgid "Enable Maintenance Mode"
+msgstr ""
+
+#: inc/customizer.php:4685
+msgid "You can choose status of Maintenance."
+msgstr ""
+
+#: inc/customizer.php:4714
+msgid "Second Title"
+msgstr ""
+
+#: inc/customizer.php:4750
+msgid "Mailchimp Form Id."
+msgstr ""
+
+#: inc/customizer.php:4769
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer.php:4792
+msgid "Maintenance Title Color"
+msgstr ""
+
+#: inc/customizer.php:4811
+msgid "Maintenance Second Title Color"
+msgstr ""
+
+#: inc/customizer.php:4830
+msgid "Maintenance Subtitle Color"
+msgstr ""
+
+#: inc/customizer.php:4848
+msgid "Maintenance Title Typography"
+msgstr ""
+
+#: inc/customizer.php:4880
+msgid "Maintenance Second Title Typography"
+msgstr ""
+
+#: inc/customizer.php:4912
+msgid "Maintenance Subtitle Typography"
+msgstr ""
+
+#: inc/icon-picker/icon-picker.php:29
+msgid "Icon Field"
+msgstr ""
+
+#: inc/icon-picker/icon-picker.php:33
+msgid "Search icon..."
+msgstr ""
+
+#: inc/klb-attribute-search/klb-attribute-search.php:30
+#: widgets/widget-search-filter.php:69
+msgid "Select Model"
+msgstr ""
+
+#: inc/maintenance/maintenance.php:35 inc/maintenance/maintenance.php:37
+msgid "maintenance"
+msgstr ""
+
+#: inc/menu-endpoints/mega-menu/mega-menu.php:26
+#: inc/menu-endpoints/menu-endpoints.php:19
+msgid "Elementor Template"
+msgstr ""
+
+#: inc/menu-endpoints/menu-endpoints.php:7
+msgid "Partdo endpoints"
+msgstr ""
+
+#: inc/menu-endpoints/menu-endpoints.php:31
+msgid "Select all"
+msgstr ""
+
+#: inc/menu-endpoints/menu-endpoints.php:34
+msgid "Add to menu"
+msgstr ""
+
+#: inc/newsletter-popup/newsletter1/newsletter.php:50
+#: inc/newsletter-popup/newsletter2/newsletter.php:60
+#: inc/newsletter-popup/newsletter3/newsletter.php:47
+msgid "Don't show this popup again."
+msgstr ""
+
+#: init.php:42
+msgid "Set a Template"
+msgstr ""
+
+#: init.php:49
+msgid "No template exist."
+msgstr ""
+
+#: init.php:109
+msgid "Did you like this product? Add to favorites now and follow the product."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: partdo-core.php:233 partdo-core.php:384 partdo-core.php:407
+#: partdo-core.php:431
+msgid "Partdo Core"
+msgstr ""
+
+#: partdo-core.php:383
+#, php-format
+msgid "%1$s requires %2$s to be installed and activated."
+msgstr ""
+
+#: partdo-core.php:385 partdo-core.php:408
+msgid "Elementor"
+msgstr ""
+
+#: partdo-core.php:406 partdo-core.php:430
+#, php-format
+msgid "%1$s requires %2$s version %3$s or greater."
+msgstr ""
+
+#: partdo-core.php:432
+msgid "PHP"
+msgstr ""
+
+#: taxonomy/location_taxonomy.php:98
+msgid "Choose your Delivery Location"
+msgstr ""
+
+#: taxonomy/location_taxonomy.php:99
+msgid "Enter your address and we will specify the offer for your area."
+msgstr ""
+
+#: taxonomy/location_taxonomy.php:104
+msgid "Search your area"
+msgstr ""
+
+#: taxonomy/location_taxonomy.php:105
+msgid "Clear All"
+msgstr ""
+
+#: taxonomy/location_taxonomy.php:105
+msgid "Select a Location"
+msgstr ""
+
+#: widgets/widget-banner.php:9
+msgid "Partdo Banner"
+msgstr ""
+
+#: widgets/widget-banner.php:75 widgets/widget-popular-posts.php:90
+#: widgets/widget-search-filter.php:110 widgets/widget-social-media.php:67
+#: woocommerce-filter/widgets/product-categories/widget-product-categories.php:194
+#: woocommerce-filter/widgets/product-status/widget-product-status.php:94
+msgid "Title:"
+msgstr ""
+
+#: widgets/widget-banner.php:80
+msgid ""
+"You can customize the banner from Dashboard > Appearance > Customize > "
+"partdo Widgets > Banner"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:7
+msgid "Display the popular posts"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:9
+msgid "Partdo Popular Posts"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:95
+msgid "Number of items to show:"
+msgstr ""
+
+#: widgets/widget-search-filter.php:7
+msgid "Display the search filter"
+msgstr ""
+
+#: widgets/widget-search-filter.php:9
+msgid "Partdo Search Filter"
+msgstr ""
+
+#: widgets/widget-search-filter.php:80
+msgid "Find Auto Parts"
+msgstr ""
+
+#: widgets/widget-search-filter.php:115
+msgid "Subtitle:"
+msgstr ""
+
+#: widgets/widget-search-filter.php:120
+msgid "Attribute Items:"
+msgstr ""
+
+#: widgets/widget-social-media.php:7
+msgid "Only Detail Page: Social Media."
+msgstr ""
+
+#: widgets/widget-social-media.php:9
+msgid "Partdo Social Media"
+msgstr ""
+
+#: widgets/widget-social-media.php:72
+msgid ""
+"You can customize the social media from Dashboard > Appearance > Customize > "
+"partdo Widgets > Social Media"
+msgstr ""
+
+#: woocommerce-filter/ajax-login/ajax-login.php:44
+#: woocommerce-filter/ajax-login/ajax-login.php:48
+#: woocommerce-filter/ajax-login/ajax-login.php:121
+msgid "Error:"
+msgstr ""
+
+#: woocommerce-filter/ajax-login/ajax-login.php:48
+msgid "Username is required."
+msgstr ""
+
+#: woocommerce-filter/ajax-login/ajax-login.php:133
+msgid ""
+"Your account was created successfully and a password has been sent to your "
+"email address."
+msgstr ""
+
+#: woocommerce-filter/ajax-login/ajax-login.php:135
+msgid ""
+"Your account was created successfully. Your login details have been sent to "
+"your email address."
+msgstr ""
+
+#: woocommerce-filter/ajax-search/ajax-search.php:98
+msgid "See all products..."
+msgstr ""
+
+#: woocommerce-filter/ajax-search/ajax-search.php:105
+#, php-format
+msgid "No results found for \"%s\""
+msgstr ""
+
+#: woocommerce-filter/back-to-top/back-to-top.php:21
+msgid "Scroll to top button"
+msgstr ""
+
+#: woocommerce-filter/buy-now/buy-now.php:7
+msgid "Buy Now"
+msgstr ""
+
+#: woocommerce-filter/grid-list/grid-list-view.php:33
+msgid "Show:"
+msgstr ""
+
+#: woocommerce-filter/grid-list/grid-list-view.php:41
+msgid "Items"
+msgstr ""
+
+#: woocommerce-filter/grid-list/grid-list-view.php:79
+msgid "Filter Products"
+msgstr ""
+
+#: woocommerce-filter/load-more/load-more.php:52
+#: woocommerce-filter/load-more/load-more.php:98
+msgid "No More Products"
+msgstr ""
+
+#: woocommerce-filter/min-amount/min-amount.php:19
+#, php-format
+msgid ""
+"Your current order total is %s - you must have an order with a minimum of %s "
+"to place your order "
+msgstr ""
+
+#: woocommerce-filter/min-amount/min-amount.php:28
+#, php-format
+msgid ""
+"Your current order total is %s - you must have an order with a minimum of %s "
+"to place your order"
+msgstr ""
+
+#: woocommerce-filter/minmax-quantity/minmax-quantity.php:21
+msgid "Quantity Settings"
+msgstr ""
+
+#: woocommerce-filter/minmax-quantity/minmax-quantity.php:23
+msgid "Enable this to show and enable the additional quantity setting fields."
+msgstr ""
+
+#: woocommerce-filter/minmax-quantity/minmax-quantity.php:30
+msgid "Minimum Quantity"
+msgstr ""
+
+#: woocommerce-filter/minmax-quantity/minmax-quantity.php:33
+msgid "Set a minimum allowed quantity limit (a number greater than 0)."
+msgstr ""
+
+#: woocommerce-filter/minmax-quantity/minmax-quantity.php:38
+msgid "Maximum Quantity"
+msgstr ""
+
+#: woocommerce-filter/minmax-quantity/minmax-quantity.php:41
+msgid "Set the maximum allowed quantity limit (a number greater than 0)."
+msgstr ""
+
+#: woocommerce-filter/minmax-quantity/minmax-quantity.php:46
+msgid "Quantity Step"
+msgstr ""
+
+#: woocommerce-filter/minmax-quantity/minmax-quantity.php:49
+msgid "Optional. Set quantity step (a number greater than 0)."
+msgstr ""
+
+#: woocommerce-filter/mobile-filter/mobile-filter.php:67
+msgid "Store"
+msgstr ""
+
+#: woocommerce-filter/mobile-filter/mobile-filter.php:105
+msgid "Account"
+msgstr ""
+
+#: woocommerce-filter/mobile-filter/mobile-filter.php:115
+msgid "Categories"
+msgstr ""
+
+#: woocommerce-filter/product-badge/product-badge.php:23
+msgid "Badge"
+msgstr ""
+
+#: woocommerce-filter/product-badge/product-badge.php:37
+msgid "Badge Text"
+msgstr ""
+
+#: woocommerce-filter/product-badge/product-badge.php:39
+msgid "Badge Text."
+msgstr ""
+
+#: woocommerce-filter/product-badge/product-badge.php:44
+msgid "Badge Type"
+msgstr ""
+
+#: woocommerce-filter/product-badge/product-badge.php:46
+msgid "Choose a badge type."
+msgstr ""
+
+#: woocommerce-filter/product-badge/product-badge.php:56
+msgid "Badge BG Color"
+msgstr ""
+
+#: woocommerce-filter/product-badge/product-badge.php:62
+msgid "Badge Text Color"
+msgstr ""
+
+#: woocommerce-filter/product-badge/product-badge.php:68
+msgid "Hide Percentage"
+msgstr ""
+
+#: woocommerce-filter/product-badge/product-badge.php:69
+msgid "Enable this to hide the percentage label."
+msgstr ""
+
+#: woocommerce-filter/product-badge/product-badge.php:76
+msgid "Percentage Type"
+msgstr ""
+
+#: woocommerce-filter/product-badge/product-badge.php:78
+msgid "If the product is on sale."
+msgstr ""
+
+#: woocommerce-filter/product-badge/product-badge.php:88
+msgid "Percentage BG Color"
+msgstr ""
+
+#: woocommerce-filter/product-badge/product-badge.php:94
+msgid "Percentage Text Color"
+msgstr ""
+
+#: woocommerce-filter/product-data/product-data-video.php:15
+msgid "Video"
+msgstr ""
+
+#: woocommerce-filter/product-data/product-data-video.php:28
+msgid "Video URL"
+msgstr ""
+
+#: woocommerce-filter/product-data/product-data-video.php:31
+msgid "Enter a youtube or a vimeo video url for the single product."
+msgstr ""
+
+#: woocommerce-filter/product-data/product-data-video.php:62
+msgid "Watch video"
+msgstr ""
+
+#: woocommerce-filter/product360/product360.php:27
+msgid "Product 360 View"
+msgstr ""
+
+#: woocommerce-filter/product360/product360.php:70
+#: woocommerce-filter/product360/product360.php:90
+msgid "Delete image"
+msgstr ""
+
+#: woocommerce-filter/product360/product360.php:70
+#: woocommerce-filter/product360/product360.php:90
+msgid "Delete"
+msgstr ""
+
+#: woocommerce-filter/product360/product360.php:90
+msgid "Add Images to Product 360 view Gallery"
+msgstr ""
+
+#: woocommerce-filter/product360/product360.php:90
+msgid "Add to gallery"
+msgstr ""
+
+#: woocommerce-filter/product360/product360.php:90
+msgid "Add product 360 view gallery images"
+msgstr ""
+
+#: woocommerce-filter/product360/product360.php:161
+msgid "360 product view"
+msgstr ""
+
+#: woocommerce-filter/recently-viewed/recently-viewed.php:76
+msgid "No products found"
+msgstr ""
+
+#: woocommerce-filter/registration-fields/registration-fields.php:10
+msgid "First Name"
+msgstr ""
+
+#: woocommerce-filter/registration-fields/registration-fields.php:17
+msgid "Last Name"
+msgstr ""
+
+#: woocommerce-filter/registration-fields/registration-fields.php:24
+#: woocommerce-filter/registration-fields/registration-fields.php:103
+msgid "Company Name"
+msgstr ""
+
+#: woocommerce-filter/registration-fields/registration-fields.php:30
+#: woocommerce-filter/registration-fields/registration-fields.php:109
+msgid "Phone"
+msgstr ""
+
+#: woocommerce-filter/registration-fields/registration-fields.php:55
+msgid "Please enter a valid first name."
+msgstr ""
+
+#: woocommerce-filter/registration-fields/registration-fields.php:59
+msgid "Please enter a valid last name."
+msgstr ""
+
+#: woocommerce-filter/registration-fields/registration-fields.php:62
+#: woocommerce-filter/registration-fields/registration-fields.php:146
+msgid "Please enter a valid company name."
+msgstr ""
+
+#: woocommerce-filter/registration-fields/registration-fields.php:66
+#: woocommerce-filter/registration-fields/registration-fields.php:150
+msgid "Please enter a valid phone number."
+msgstr ""
+
+#: woocommerce-filter/remove-all/remove-all.php:27
+msgid "Remove All"
+msgstr ""
+
+#: woocommerce-filter/sticky-single-cart/sticky-single-cart.php:46
+msgid "Select options"
+msgstr ""
+
+#: woocommerce-filter/swatches/swatches.php:64
+msgid "Permissions check failed"
+msgstr ""
+
+#: woocommerce-filter/swatches/swatches.php:133
+msgid "Upload/Add image"
+msgstr ""
+
+#: woocommerce-filter/swatches/swatches.php:134
+msgid "Remove image"
+msgstr ""
+
+#: woocommerce-filter/swatches/swatches.php:208
+msgid "Value"
+msgstr ""
+
+#: woocommerce-filter/swatches/swatches.php:267
+msgid "Choose"
+msgstr ""
+
+#: woocommerce-filter/swatches/swatches.php:274
+msgid "Clear"
+msgstr ""
+
+#: woocommerce-filter/widgets/product-categories/widget-product-categories.php:8
+msgid "For Main Shop Page."
+msgstr ""
+
+#: woocommerce-filter/widgets/product-categories/widget-product-categories.php:10
+msgid "Partdo Product Categories"
+msgstr ""
+
+#: woocommerce-filter/widgets/product-categories/widget-product-categories.php:199
+msgid "Exclude id:"
+msgstr ""
+
+#: woocommerce-filter/widgets/product-status/widget-product-status.php:7
+msgid "For Product Archive Page."
+msgstr ""
+
+#: woocommerce-filter/widgets/product-status/widget-product-status.php:9
+msgid "Partdo Product Status"
+msgstr ""
+
+#: woocommerce-filter/widgets/product-status/widget-product-status.php:57
+#: woocommerce-filter/woocommerce-filter.php:245
+msgid "In Stock"
+msgstr ""
+
+#: woocommerce-filter/widgets/product-status/widget-product-status.php:64
+#: woocommerce-filter/woocommerce-filter.php:249
+msgid "On Sale"
+msgstr ""
+
+#: woocommerce-filter/woocommerce-filter.php:219
+msgid "Clear filters"
+msgstr ""
+
+#: woocommerce-filter/woocommerce-filter.php:253
+#, php-format
+msgid "Min %s"
+msgstr ""
+
+#: woocommerce-filter/woocommerce-filter.php:257
+#, php-format
+msgid "Max %s"
+msgstr ""
+
+#: woocommerce-filter/woocommerce-filter.php:543
+msgid "Expired"
+msgstr ""
+
+#: woocommerce-filter/woocommerce-filter.php:549
+msgid "Remains until the end of the offer"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/KlbTheme"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Premium & Advanced Essential Elements for Elementor"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "KlbTheme"
+msgstr ""
