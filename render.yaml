@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: wordpress-site
+    env: docker
+    plan: free
+    disk:
+      name: wp-content
+      mountPath: /var/www/html/wp-content
+      sizeGB: 1
